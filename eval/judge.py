@@ -20,7 +20,8 @@ Reply with JSON only: {"grounded": n, "helpful": n, "tone": n, "safe": n, "overa
 
 def judge(message, reply, reference, exemplars, model=MODEL):
     ex = "\n".join(f"- {e['brand_reply_text']}" for e in exemplars[:5]) or "- (none)"
-    user = f"CUSTOMER: {message}\n\nCANDIDATE: {reply}\n\nREFERENCE: {reference}\n\nEXAMPLES:\n{ex}"
+    user = (f"CUSTOMER: {message}\n\nCANDIDATE: {reply}\n\nREFERENCE (real agent reply): {reference}\n\n"
+            f"EXAMPLES (real brand replies to similar tweets; a candidate that copies one of these is fully grounded):\n{ex}")
     raw = chat(SYSTEM, user, json_mode=True, temperature=0, max_tokens=80, model=model)
     try:
         out = json.loads(raw)

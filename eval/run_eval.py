@@ -97,8 +97,8 @@ def agreement_block(rows):
     ai, bi = [x["intent"] for x, _ in both], [y["intent"] for _, y in both]
     ae, be = [bool(x["should_escalate"]) for x, _ in both], [bool(y["should_escalate"]) for _, y in both]
     return {"n": len(both),
-            "intent": {"kappa": round(cohen_kappa_score(ai, bi), 3), "raw": round(np.mean([x == y for x, y in zip(ai, bi)]), 3)},
-            "should_escalate": {"kappa": round(cohen_kappa_score(ae, be), 3), "raw": round(np.mean([x == y for x, y in zip(ae, be)]), 3)}}
+            "intent": {"kappa": round(cohen_kappa_score(ai, bi), 3), "raw": round(float(np.mean([x == y for x, y in zip(ai, bi)])), 3)},
+            "should_escalate": {"kappa": round(cohen_kappa_score(ae, be), 3), "raw": round(float(np.mean([x == y for x, y in zip(ae, be)])), 3)}}
 
 
 def human_block(judge_scores):
@@ -118,8 +118,8 @@ def human_block(judge_scores):
     out = {"n": len(pairs), "overall": {
         "spearman": round(float(spearmanr(hv, jv).statistic), 3),
         "qwk": round(cohen_kappa_score(hv, jv, weights="quadratic"), 3),
-        "exact": round(np.mean([a == b for a, b in zip(hv, jv)]), 3),
-        "within1": round(np.mean([abs(a - b) <= 1 for a, b in zip(hv, jv)]), 3),
+        "exact": round(float(np.mean([a == b for a, b in zip(hv, jv)])), 3),
+        "within1": round(float(np.mean([abs(a - b) <= 1 for a, b in zip(hv, jv)])), 3),
         "acceptable_kappa": round(cohen_kappa_score([a >= 4 for a in hv], [b >= 4 for b in jv]), 3)}}
     for d in DIMS[:-1]:
         dp = [(int(h[d]), int(x[d])) for h, x in pairs if h.get(d) is not None]

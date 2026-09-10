@@ -10,4 +10,6 @@ dependencies = [
     "requests",
     "tqdm",
     "tabulate>=0.10.0",
+    "joblib>=1.6.0",
+    "scipy>=1.18.1",
 ]

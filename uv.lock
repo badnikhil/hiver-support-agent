@@ -79,22 +79,26 @@ name = "hiver"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "joblib" },
     { name = "numpy" },
     { name = "pandas" },
     { name = "pyarrow" },
     { name = "requests" },
     { name = "scikit-learn" },
+    { name = "scipy" },
     { name = "tabulate" },
     { name = "tqdm" },
 ]
 
 [package.metadata]
 requires-dist = [
+    { name = "joblib", specifier = ">=1.6.0" },
     { name = "numpy" },
     { name = "pandas" },
     { name = "pyarrow" },
     { name = "requests" },
     { name = "scikit-learn" },
+    { name = "scipy", specifier = ">=1.18.1" },
     { name = "tabulate", specifier = ">=0.10.0" },
     { name = "tqdm" },
 ]

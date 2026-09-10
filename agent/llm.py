@@ -15,9 +15,9 @@ _db = sqlite3.connect(CACHE)
 _db.execute("create table if not exists cache (k text primary key, v text)")
 
 
-def chat(system, user, *, json_mode=False, temperature=0, max_tokens=200):
+def chat(system, user, *, json_mode=False, temperature=0, max_tokens=200, model=None):
     body = {
-        "model": MODEL,
+        "model": model or MODEL,
         "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
         "stream": False,
         # fixed num_ctx: changing it reloads the model (+5s); same system prompt => KV cache hit

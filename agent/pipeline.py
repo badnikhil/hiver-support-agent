@@ -41,15 +41,23 @@ def main():
     a = ap.parse_args()
     if a.text:
         return show(handle(a.text))
-    out = Path(a.out)
-    done = {json.loads(l)["tweet_id"] for l in out.open()} if out.exists() else set()
-    rows = [json.loads(l) for l in open(a.jsonl)]
+    run_batch([json.loads(l) for l in open(a.jsonl)], a.out)
+
+
+def run_batch(rows, out):
+    """Run handle() on rows (tweet_id/text or customer_tweet_id/customer_text), append to out, skip ids already there.
+    Returns {tweet_id: result} for the given rows."""
+    out = Path(out)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    done = {json.loads(l)["tweet_id"]: json.loads(l) for l in out.open()} if out.exists() else {}
     rows = [{"tweet_id": r.get("tweet_id", r.get("customer_tweet_id")), "text": r.get("text", r.get("customer_text"))} for r in rows]
     with out.open("a") as f:
-        for row in tqdm([r for r in rows if r["tweet_id"] not in done]):
-            r = handle(row["text"], exclude_id=row["tweet_id"])
-            f.write(json.dumps({"tweet_id": row["tweet_id"], **r}) + "\n")
+        for row in tqdm([r for r in rows if r["tweet_id"] not in done], desc="predict"):
+            r = {"tweet_id": row["tweet_id"], **handle(row["text"], exclude_id=row["tweet_id"])}
+            f.write(json.dumps(r) + "\n")
             f.flush()
+            done[row["tweet_id"]] = r
+    return {r["tweet_id"]: done[r["tweet_id"]] for r in rows}
 
 
 if __name__ == "__main__":

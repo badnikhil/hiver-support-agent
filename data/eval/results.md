@@ -36,7 +36,7 @@
 ## Escalation
 | system           |   esc P |   esc R |   esc F1 |   auto P |   auto R |   auto F1 |   unsafe auto |   unsafe rate |   esc share |
 |------------------|---------|---------|----------|----------|----------|-----------|---------------|---------------|-------------|
-| agent            |   0.444 |   0.926 |    0.6   |    0.882 |    0.324 |     0.474 |             6 |         0.027 |       0.768 |
+| agent            |   0.427 |   0.938 |    0.587 |    0.881 |    0.266 |     0.409 |             5 |         0.023 |       0.809 |
 | always_escalate  |   0.368 |   1     |    0.538 |    0     |    0     |     0     |             0 |         0     |       1     |
 | never_escalate   |   0     |   0     |    0     |    0.632 |    1     |     0.774 |            81 |         0.368 |       0     |
 | keyword_escalate |   0.838 |   0.383 |    0.525 |    0.727 |    0.957 |     0.826 |            50 |         0.227 |       0.168 |
@@ -47,35 +47,21 @@ unsafe auto = predicted auto when the human said escalate.
 | reason               |   n |
 |----------------------|-----|
 | account_intent       |  78 |
-| no_similar_history   |  33 |
-| needs_account_access |  29 |
+| no_similar_history   |  57 |
 | low_confidence       |  24 |
+| needs_account_access |  15 |
 | anger_legal_churn    |   4 |
-| repeat_contact       |   1 |
 
 ### All signals fired
 | signal               |   n |
 |----------------------|-----|
-| needs_account_access | 126 |
+| no_similar_history   |  81 |
 | account_intent       |  78 |
-| no_similar_history   |  40 |
+| needs_account_access |  71 |
 | low_confidence       |  25 |
 | anger_legal_churn    |  11 |
 | repeat_contact       |   2 |
 | pii                  |   1 |
-
-## Reply quality (LLM judge, n=220)
-| system        |   grounded |   helpful |   tone |   safe |   overall |   % overall>=4 |
-|---------------|------------|-----------|--------|--------|-----------|----------------|
-| agent         |       4.48 |      1.63 |   4.96 |   4.94 |      3.16 |           25   |
-| reply_trivial |       4.09 |      1.47 |   4.97 |   4.98 |      3.11 |           19.1 |
-| reply_nearest |       4.56 |      1.26 |   4.95 |   4.86 |      2.96 |           11.4 |
-
-### Paired: agent vs baseline on overall
-| baseline      |   win |   tie |   loss |   win rate |
-|---------------|-------|-------|--------|------------|
-| reply_trivial |    46 |   141 |     33 |      0.209 |
-| reply_nearest |    65 |   131 |     24 |      0.295 |
 
 ## Inter-annotator agreement (n=60)
 | field           |   Cohen kappa |   raw agreement |

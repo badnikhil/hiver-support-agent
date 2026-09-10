@@ -549,18 +549,18 @@
  "escalation": {
   "agent": {
    "escalate": {
-    "precision": 0.444,
-    "recall": 0.926,
-    "f1": 0.6
+    "precision": 0.427,
+    "recall": 0.938,
+    "f1": 0.587
    },
    "auto": {
-    "precision": 0.882,
-    "recall": 0.324,
-    "f1": 0.474
+    "precision": 0.881,
+    "recall": 0.266,
+    "f1": 0.409
    },
-   "unsafe_auto": 6,
-   "unsafe_auto_rate": 0.027,
-   "escalate_share": 0.768
+   "unsafe_auto": 5,
+   "unsafe_auto_rate": 0.023,
+   "escalate_share": 0.809
   },
   "always_escalate": {
    "escalate": {
@@ -611,16 +611,15 @@
  "reasons": {
   "first_reason": {
    "account_intent": 78,
-   "no_similar_history": 33,
-   "needs_account_access": 29,
+   "no_similar_history": 57,
    "low_confidence": 24,
-   "anger_legal_churn": 4,
-   "repeat_contact": 1
+   "needs_account_access": 15,
+   "anger_legal_churn": 4
   },
   "any_signal": {
-   "needs_account_access": 126,
+   "no_similar_history": 81,
    "account_intent": 78,
-   "no_similar_history": 40,
+   "needs_account_access": 71,
    "low_confidence": 25,
    "anger_legal_churn": 11,
    "repeat_contact": 2,
@@ -636,49 +635,6 @@
   "should_escalate": {
    "kappa": 0.927,
    "raw": 0.967
-  }
- },
- "judge": {
-  "n": 220,
-  "mean": {
-   "agent": {
-    "grounded": 4.48,
-    "helpful": 1.63,
-    "tone": 4.96,
-    "safe": 4.94,
-    "overall": 3.16,
-    "pct_overall_ge4": 25.0
-   },
-   "reply_trivial": {
-    "grounded": 4.09,
-    "helpful": 1.47,
-    "tone": 4.97,
-    "safe": 4.98,
-    "overall": 3.11,
-    "pct_overall_ge4": 19.1
-   },
-   "reply_nearest": {
-    "grounded": 4.56,
-    "helpful": 1.26,
-    "tone": 4.95,
-    "safe": 4.86,
-    "overall": 2.96,
-    "pct_overall_ge4": 11.4
-   }
-  },
-  "agent_vs": {
-   "reply_trivial": {
-    "win": 46,
-    "tie": 141,
-    "loss": 33,
-    "win_rate": 0.209
-   },
-   "reply_nearest": {
-    "win": 65,
-    "tie": 131,
-    "loss": 24,
-    "win_rate": 0.295
-   }
   }
  },
  "judge_vs_human": null

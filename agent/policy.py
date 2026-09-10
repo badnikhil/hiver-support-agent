@@ -2,7 +2,7 @@
 import re
 
 MIN_CONFIDENCE = 0.6
-MIN_RETRIEVAL = 0.25
+MIN_RETRIEVAL = 0.28
 ESCALATE_INTENTS = {"login_account", "billing_subscription"}
 
 PII = re.compile(r"__email__|__credit_card__|\b(?:\d[ -]?){13,16}\b|\border\s*(?:#|number|no\.?)\s*\w+", re.I)

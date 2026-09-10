@@ -5,7 +5,7 @@
 - `eval/` — `baselines.py`, `judge.py` (LLM judge), `run_eval.py` (-> `data/eval/results.md`), `sample_for_human.py`.
 - `scripts/` — data prep: download, build_threads, build_corpus, build_index, sample_golden, silver_labels, explore_brands.
 - `data/golden/golden.jsonl` (220 labelled, FROZEN), `golden_annotator_b.jsonl` (60 overlap), `labeling_notes.md`.
-- `data/eval/predictions.jsonl` + `judge_scores.json` are committed so `make eval` reproduces tables without a GPU.
+- `data/eval/predictions.jsonl` + `judge_scores.json` are committed and read back (judge reuses a stored score when reply text matches and `JUDGE_MODEL` is unset), so `make eval` runs in ~7 s without Ollama or `make data`.
 - `agent-docs/` — agent knowledge base (gitignored, local only). Read it before working; update it as you go.
 - README.md is the report.
 

@@ -18,7 +18,7 @@
 - `uv` only (`uv run ...`); Python 3.12. Terse commit messages, no trailers/attribution lines.
 - Golden set is frozen: never edit labels to fit the model. Fix the model or note the disagreement in agent-docs.
 - LLM cache: `data/cache/llm.sqlite`, keyed on sha256(model+messages+options). Gitignored. Reruns are free; a changed prompt re-runs.
-- `predictions.jsonl` is append-only and resume-safe: delete a line to recompute that row.
+- `predictions.jsonl` is append-only and resume-safe: delete a line to recompute that row. A policy-only change needs no re-predict: re-apply `policy.decide` to the cached rows (they carry text/intent/confidence/exemplars/draft).
 - agent-docs/, scratch files, helper notes: never `git add`.
 - Numbers in README come from `data/eval/results.md`; re-fill after any eval rerun.
 

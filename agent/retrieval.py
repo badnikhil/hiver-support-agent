@@ -14,12 +14,14 @@ INDEX = ROOT / "data/index/tfidf.joblib"
 # ponytail: TF-IDF only. Ceiling: no synonyms/paraphrase ("songs skip" vs "tracks stutter").
 # Upgrade path: sentence-transformers (all-MiniLM) embeddings + cosine, same retrieve() signature.
 
-REDIRECT = re.compile(r"\bDM\b|direct message|send us a", re.I)
+REDIRECT = re.compile(r"\bDMs?\b|direct message|message us|reach out to us here", re.I)
+DM_LINK = "t.co/ldFdZR"  # Spotify's "how to DM us" link; the only link a pure redirect carries
 _idx = None
 
 
 def is_redirect(reply):
-    return bool(reply) and len(reply) < 80 and bool(REDIRECT.search(reply))
+    """A DM ask with no other link/steps (Spotify's are ~120 chars, so no length cap)."""
+    return bool(reply) and bool(REDIRECT.search(reply)) and all(DM_LINK in u for u in re.findall(r"https?://\S+", reply))
 
 
 def build_index():
@@ -55,7 +57,9 @@ def retrieve(text, k=5, exclude_id=None):
     top = scores.argsort()[::-1][: k * 3]
     hits = [{"customer_text": meta.customer_text.iat[i], "brand_reply_text": meta.brand_reply_text.iat[i],
              "score": float(scores[i]), "is_redirect": bool(meta.is_redirect.iat[i])} for i in top if scores[i] > 0]
-    hits.sort(key=lambda h: (h["is_redirect"], -h["score"]))  # substantive first, stable by score
+    best = hits[0]["score"] if hits else 0
+    # substantive replies first if they are within 0.1 of the top score, else plain score order
+    hits.sort(key=lambda h: (h["is_redirect"] or h["score"] < best - 0.1, -h["score"]))
     return hits[:k]
 
 

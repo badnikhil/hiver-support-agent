@@ -63,6 +63,19 @@ unsafe auto = predicted auto when the human said escalate.
 | repeat_contact       |   2 |
 | pii                  |   1 |
 
+## Reply quality (LLM judge, n=220)
+| system        |   grounded |   helpful |   tone |   safe |   overall |   % overall>=4 |
+|---------------|------------|-----------|--------|--------|-----------|----------------|
+| agent         |       4.37 |      1.74 |   4.96 |   4.89 |      3.2  |           35   |
+| reply_trivial |       3.79 |      1.35 |   4.98 |   4.92 |      3    |           15.9 |
+| reply_nearest |       4.65 |      1.25 |   4.98 |   4.84 |      2.97 |           10.9 |
+
+### Paired: agent vs baseline on overall
+| baseline      |   win |   tie |   loss |   win rate |
+|---------------|-------|-------|--------|------------|
+| reply_trivial |    68 |   127 |     25 |      0.309 |
+| reply_nearest |    76 |   114 |     30 |      0.345 |
+
 ## Inter-annotator agreement (n=60)
 | field           |   Cohen kappa |   raw agreement |
 |-----------------|---------------|-----------------|

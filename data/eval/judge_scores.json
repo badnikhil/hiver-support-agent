@@ -6,15 +6,15 @@
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 258948,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2036299,
@@ -22,15 +22,15 @@
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 2161287,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 1836182,
@@ -58,7 +58,7 @@
   },
   {
    "customer_tweet_id": 1492463,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -66,7 +66,7 @@
   },
   {
    "customer_tweet_id": 300491,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -74,30 +74,6 @@
   },
   {
    "customer_tweet_id": 739476,
-   "grounded": 5,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 3
-  },
-  {
-   "customer_tweet_id": 2070844,
-   "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
-   "customer_tweet_id": 48091,
-   "grounded": 3,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 3
-  },
-  {
-   "customer_tweet_id": 2141688,
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -105,12 +81,36 @@
    "overall": 2
   },
   {
-   "customer_tweet_id": 2045211,
-   "grounded": 5,
+   "customer_tweet_id": 2070844,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 3,
-   "overall": 2
+   "overall": 1
+  },
+  {
+   "customer_tweet_id": 48091,
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 3
+  },
+  {
+   "customer_tweet_id": 2141688,
+   "grounded": 3,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 3
+  },
+  {
+   "customer_tweet_id": 2045211,
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
   },
   {
    "customer_tweet_id": 761833,
@@ -122,11 +122,11 @@
   },
   {
    "customer_tweet_id": 2079797,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 922699,
@@ -138,15 +138,15 @@
   },
   {
    "customer_tweet_id": 2047766,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 634022,
-   "grounded": 1,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -162,7 +162,7 @@
   },
   {
    "customer_tweet_id": 228054,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -173,12 +173,12 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 852703,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -195,26 +195,26 @@
   {
    "customer_tweet_id": 788621,
    "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
+  },
+  {
+   "customer_tweet_id": 1891248,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
   },
   {
-   "customer_tweet_id": 1891248,
-   "grounded": 1,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 2
-  },
-  {
    "customer_tweet_id": 388117,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 4
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 767005,
@@ -234,7 +234,7 @@
   },
   {
    "customer_tweet_id": 280591,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -243,18 +243,18 @@
   {
    "customer_tweet_id": 980206,
    "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
+   "helpful": 1,
+   "tone": 3,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 404600,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 261680,
@@ -274,7 +274,7 @@
   },
   {
    "customer_tweet_id": 189825,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -292,17 +292,17 @@
    "customer_tweet_id": 30601,
    "grounded": 5,
    "helpful": 1,
-   "tone": 5,
+   "tone": 3,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1950462,
-   "grounded": 5,
-   "helpful": 1,
+   "grounded": 3,
+   "helpful": 5,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1472543,
@@ -339,10 +339,10 @@
   {
    "customer_tweet_id": 1830830,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1913335,
@@ -354,19 +354,19 @@
   },
   {
    "customer_tweet_id": 1955898,
-   "grounded": 5,
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 2
+  },
+  {
+   "customer_tweet_id": 1879597,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
-  },
-  {
-   "customer_tweet_id": 1879597,
-   "grounded": 1,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 3,
-   "overall": 2
   },
   {
    "customer_tweet_id": 1861515,
@@ -378,19 +378,19 @@
   },
   {
    "customer_tweet_id": 1825383,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1652627,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 633766,
@@ -403,10 +403,10 @@
   {
    "customer_tweet_id": 1033688,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 315362,
@@ -429,8 +429,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 1493539,
@@ -442,7 +442,7 @@
   },
   {
    "customer_tweet_id": 1792450,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -453,16 +453,16 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 416215,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1811666,
@@ -485,8 +485,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
-   "overall": 2
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 616779,
@@ -494,7 +494,7 @@
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 2058205,
@@ -509,8 +509,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
-   "overall": 2
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 1032420,
@@ -571,10 +571,10 @@
   {
    "customer_tweet_id": 1160864,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1036114,
@@ -588,9 +588,9 @@
    "customer_tweet_id": 1956771,
    "grounded": 5,
    "helpful": 1,
-   "tone": 5,
+   "tone": 3,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1788208,
@@ -605,19 +605,27 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
+   "safe": 5,
    "overall": 3
   },
   {
    "customer_tweet_id": 361507,
-   "grounded": 3,
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 3,
+   "overall": 2
+  },
+  {
+   "customer_tweet_id": 788585,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
   },
   {
-   "customer_tweet_id": 788585,
+   "customer_tweet_id": 1920364,
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -625,40 +633,32 @@
    "overall": 4
   },
   {
-   "customer_tweet_id": 1920364,
-   "grounded": 5,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 3
-  },
-  {
    "customer_tweet_id": 374022,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2720917,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1480464,
-   "grounded": 5,
-   "helpful": 1,
+   "grounded": 4,
+   "helpful": 2,
    "tone": 5,
    "safe": 5,
    "overall": 3
   },
   {
    "customer_tweet_id": 2128547,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -666,11 +666,11 @@
   },
   {
    "customer_tweet_id": 100177,
-   "grounded": 1,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 2284062,
@@ -690,11 +690,11 @@
   },
   {
    "customer_tweet_id": 1991455,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1748248,
@@ -702,31 +702,31 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2942699,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 4
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 2592336,
-   "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
-   "customer_tweet_id": 1618759,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
+  },
+  {
+   "customer_tweet_id": 1618759,
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
   },
   {
    "customer_tweet_id": 2021156,
@@ -738,30 +738,38 @@
   },
   {
    "customer_tweet_id": 2018399,
+   "grounded": 3,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 3
+  },
+  {
+   "customer_tweet_id": 2807543,
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
    "safe": 5,
    "overall": 4
-  },
-  {
-   "customer_tweet_id": 2807543,
-   "grounded": 5,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 3
   },
   {
    "customer_tweet_id": 1602045,
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 327644,
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
+  },
+  {
+   "customer_tweet_id": 2225625,
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -769,20 +777,12 @@
    "overall": 3
   },
   {
-   "customer_tweet_id": 2225625,
-   "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
    "customer_tweet_id": 2031920,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 2912459,
@@ -802,24 +802,24 @@
   },
   {
    "customer_tweet_id": 2148236,
-   "grounded": 3,
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 3,
+   "overall": 2
+  },
+  {
+   "customer_tweet_id": 1990721,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
   },
   {
-   "customer_tweet_id": 1990721,
-   "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
    "customer_tweet_id": 160553,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 4,
    "tone": 5,
    "safe": 5,
    "overall": 4
@@ -828,9 +828,9 @@
    "customer_tweet_id": 1723525,
    "grounded": 5,
    "helpful": 1,
-   "tone": 3,
+   "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 2487414,
@@ -883,14 +883,14 @@
   {
    "customer_tweet_id": 2251358,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2364841,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -906,7 +906,7 @@
   },
   {
    "customer_tweet_id": 2517282,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -914,7 +914,7 @@
   },
   {
    "customer_tweet_id": 1162323,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -931,14 +931,14 @@
   {
    "customer_tweet_id": 2139022,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 153753,
-   "grounded": 4,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -946,8 +946,8 @@
   },
   {
    "customer_tweet_id": 2246478,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 5,
    "tone": 5,
    "safe": 5,
    "overall": 4
@@ -974,7 +974,7 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 554138,
@@ -1010,15 +1010,15 @@
   },
   {
    "customer_tweet_id": 555494,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 570525,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -1027,10 +1027,10 @@
   {
    "customer_tweet_id": 510537,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 511827,
@@ -1042,26 +1042,26 @@
   },
   {
    "customer_tweet_id": 555492,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 539199,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 508845,
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
+   "safe": 3,
    "overall": 3
   },
   {
@@ -1069,16 +1069,16 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 601866,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 466060,
@@ -1090,11 +1090,11 @@
   },
   {
    "customer_tweet_id": 565409,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 502663,
@@ -1115,10 +1115,10 @@
   {
    "customer_tweet_id": 554128,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 482459,
@@ -1139,18 +1139,18 @@
   {
    "customer_tweet_id": 590147,
    "grounded": 5,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 3
-  },
-  {
-   "customer_tweet_id": 494237,
-   "grounded": 5,
    "helpful": 3,
    "tone": 5,
    "safe": 5,
    "overall": 4
+  },
+  {
+   "customer_tweet_id": 494237,
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 486947,
@@ -1189,8 +1189,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
-   "overall": 2
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 574268,
@@ -1202,11 +1202,11 @@
   },
   {
    "customer_tweet_id": 581525,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 554121,
@@ -1214,7 +1214,7 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 570523,
@@ -1222,7 +1222,7 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 502659,
@@ -1234,7 +1234,7 @@
   },
   {
    "customer_tweet_id": 571379,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -1267,22 +1267,22 @@
   {
    "customer_tweet_id": 462649,
    "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
-   "customer_tweet_id": 478111,
-   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
   },
   {
-   "customer_tweet_id": 1118829,
+   "customer_tweet_id": 478111,
    "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
+  },
+  {
+   "customer_tweet_id": 1118829,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -1307,18 +1307,18 @@
   {
    "customer_tweet_id": 846801,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1405276,
    "grounded": 5,
    "helpful": 1,
-   "tone": 3,
+   "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 782675,
@@ -1334,15 +1334,15 @@
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2605665,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2827794,
@@ -1362,7 +1362,7 @@
   },
   {
    "customer_tweet_id": 1239130,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -1380,9 +1380,9 @@
    "customer_tweet_id": 1751394,
    "grounded": 5,
    "helpful": 1,
-   "tone": 3,
+   "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 365597,
@@ -1394,19 +1394,19 @@
   },
   {
    "customer_tweet_id": 2653044,
-   "grounded": 1,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 2
-  },
-  {
-   "customer_tweet_id": 1344451,
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
+  },
+  {
+   "customer_tweet_id": 1344451,
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
   },
   {
    "customer_tweet_id": 281320,
@@ -1418,11 +1418,11 @@
   },
   {
    "customer_tweet_id": 1844102,
-   "grounded": 1,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 778441,
@@ -1434,11 +1434,11 @@
   },
   {
    "customer_tweet_id": 387107,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1483991,
@@ -1459,18 +1459,18 @@
   {
    "customer_tweet_id": 363467,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 231019,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 976834,
@@ -1490,7 +1490,7 @@
   },
   {
    "customer_tweet_id": 899407,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -1506,11 +1506,11 @@
   },
   {
    "customer_tweet_id": 2065778,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1296773,
@@ -1518,7 +1518,7 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1251845,
@@ -1534,23 +1534,23 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 366685,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2148223,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1657195,
@@ -1578,7 +1578,7 @@
   },
   {
    "customer_tweet_id": 2056828,
-   "grounded": 1,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -1594,23 +1594,23 @@
   },
   {
    "customer_tweet_id": 2729336,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 2919322,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 822279,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -1619,10 +1619,10 @@
   {
    "customer_tweet_id": 2536636,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1806156,
@@ -1630,7 +1630,7 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2913979,
@@ -1667,26 +1667,26 @@
   {
    "customer_tweet_id": 1944718,
    "grounded": 5,
-   "helpful": 4,
+   "helpful": 5,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 5
   },
   {
    "customer_tweet_id": 2733037,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1489541,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 468339,
@@ -1694,23 +1694,23 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2360631,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 4,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1933355,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1926547,
@@ -1723,34 +1723,34 @@
   {
    "customer_tweet_id": 2978437,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 765659,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 2040413,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
   },
   {
    "customer_tweet_id": 1725469,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
-   "overall": 2
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 1317768,
@@ -1768,7 +1768,7 @@
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 258948,
@@ -1789,10 +1789,10 @@
   {
    "customer_tweet_id": 2161287,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 1836182,
@@ -1836,30 +1836,6 @@
   },
   {
    "customer_tweet_id": 739476,
-   "grounded": 5,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 3
-  },
-  {
-   "customer_tweet_id": 2070844,
-   "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
-   "customer_tweet_id": 48091,
-   "grounded": 3,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 3
-  },
-  {
-   "customer_tweet_id": 2141688,
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1867,12 +1843,36 @@
    "overall": 2
   },
   {
-   "customer_tweet_id": 2045211,
+   "customer_tweet_id": 2070844,
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 3
+  },
+  {
+   "customer_tweet_id": 48091,
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
+  },
+  {
+   "customer_tweet_id": 2141688,
+   "grounded": 3,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 3
+  },
+  {
+   "customer_tweet_id": 2045211,
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
   },
   {
    "customer_tweet_id": 761833,
@@ -1884,11 +1884,11 @@
   },
   {
    "customer_tweet_id": 2079797,
-   "grounded": 4,
-   "helpful": 2,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 922699,
@@ -1900,11 +1900,11 @@
   },
   {
    "customer_tweet_id": 2047766,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 634022,
@@ -1912,7 +1912,7 @@
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 193285,
@@ -1933,10 +1933,10 @@
   {
    "customer_tweet_id": 2883260,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 852703,
@@ -1972,11 +1972,11 @@
   },
   {
    "customer_tweet_id": 388117,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 767005,
@@ -1996,7 +1996,7 @@
   },
   {
    "customer_tweet_id": 280591,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -2053,10 +2053,10 @@
   {
    "customer_tweet_id": 30601,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1950462,
@@ -2101,10 +2101,10 @@
   {
    "customer_tweet_id": 1830830,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1913335,
@@ -2116,11 +2116,11 @@
   },
   {
    "customer_tweet_id": 1955898,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1879597,
@@ -2148,7 +2148,7 @@
   },
   {
    "customer_tweet_id": 1652627,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -2269,10 +2269,10 @@
   {
    "customer_tweet_id": 1933353,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1032420,
@@ -2293,10 +2293,10 @@
   {
    "customer_tweet_id": 1790852,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1796452,
@@ -2381,10 +2381,10 @@
   {
    "customer_tweet_id": 788585,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1920364,
@@ -2412,7 +2412,7 @@
   },
   {
    "customer_tweet_id": 1480464,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -2420,11 +2420,11 @@
   },
   {
    "customer_tweet_id": 2128547,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 1
   },
   {
    "customer_tweet_id": 100177,
@@ -2437,10 +2437,10 @@
   {
    "customer_tweet_id": 2284062,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1760776,
@@ -2469,10 +2469,10 @@
   {
    "customer_tweet_id": 2942699,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2592336,
@@ -2501,10 +2501,10 @@
   {
    "customer_tweet_id": 2018399,
    "grounded": 5,
-   "helpful": 1,
-   "tone": 3,
+   "helpful": 3,
+   "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 4
   },
   {
    "customer_tweet_id": 2807543,
@@ -2519,8 +2519,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 327644,
@@ -2533,10 +2533,10 @@
   {
    "customer_tweet_id": 2225625,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2031920,
@@ -2580,11 +2580,11 @@
   },
   {
    "customer_tweet_id": 160553,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1723525,
@@ -2613,7 +2613,7 @@
   {
    "customer_tweet_id": 2632606,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 4,
    "tone": 5,
    "safe": 5,
    "overall": 4
@@ -2636,11 +2636,11 @@
   },
   {
    "customer_tweet_id": 2513100,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 2251358,
@@ -2652,7 +2652,7 @@
   },
   {
    "customer_tweet_id": 2364841,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -2676,11 +2676,11 @@
   },
   {
    "customer_tweet_id": 1162323,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 2684264,
@@ -2704,7 +2704,7 @@
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 2246478,
@@ -2740,6 +2740,14 @@
   },
   {
    "customer_tweet_id": 554138,
+   "grounded": 1,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 2
+  },
+  {
+   "customer_tweet_id": 544598,
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2747,16 +2755,8 @@
    "overall": 3
   },
   {
-   "customer_tweet_id": 544598,
-   "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
    "customer_tweet_id": 569618,
-   "grounded": 1,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -2772,11 +2772,11 @@
   },
   {
    "customer_tweet_id": 555494,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 570525,
@@ -2799,7 +2799,7 @@
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
+   "safe": 3,
    "overall": 2
   },
   {
@@ -2812,11 +2812,11 @@
   },
   {
    "customer_tweet_id": 539199,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 508845,
@@ -2829,10 +2829,10 @@
   {
    "customer_tweet_id": 508875,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 4
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 601866,
@@ -2848,7 +2848,7 @@
    "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 565409,
@@ -2876,7 +2876,7 @@
   },
   {
    "customer_tweet_id": 554128,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -2940,7 +2940,7 @@
   },
   {
    "customer_tweet_id": 597352,
-   "grounded": 1,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -2948,7 +2948,7 @@
   },
   {
    "customer_tweet_id": 591475,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -3028,7 +3028,7 @@
   },
   {
    "customer_tweet_id": 462649,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -3036,8 +3036,8 @@
   },
   {
    "customer_tweet_id": 478111,
-   "grounded": 3,
-   "helpful": 5,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
    "overall": 4
@@ -3092,15 +3092,15 @@
   },
   {
    "customer_tweet_id": 1244359,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 1,
+   "helpful": 2,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2605665,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -3164,15 +3164,15 @@
   },
   {
    "customer_tweet_id": 1344451,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 281320,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -3180,11 +3180,11 @@
   },
   {
    "customer_tweet_id": 1844102,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 1
   },
   {
    "customer_tweet_id": 778441,
@@ -3196,11 +3196,11 @@
   },
   {
    "customer_tweet_id": 387107,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1483991,
@@ -3268,11 +3268,11 @@
   },
   {
    "customer_tweet_id": 2065778,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 1296773,
@@ -3300,11 +3300,11 @@
   },
   {
    "customer_tweet_id": 366685,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 2148223,
@@ -3356,11 +3356,11 @@
   },
   {
    "customer_tweet_id": 2729336,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 2919322,
@@ -3381,10 +3381,10 @@
   {
    "customer_tweet_id": 2536636,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1806156,
@@ -3405,42 +3405,42 @@
   {
    "customer_tweet_id": 2695172,
    "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
+  },
+  {
+   "customer_tweet_id": 950000,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
   },
   {
-   "customer_tweet_id": 950000,
-   "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
    "customer_tweet_id": 2862782,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1944718,
    "grounded": 5,
-   "helpful": 4,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 2733037,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1489541,
@@ -3452,16 +3452,16 @@
   },
   {
    "customer_tweet_id": 468339,
-   "grounded": 5,
-   "helpful": 5,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 5
+   "overall": 3
   },
   {
    "customer_tweet_id": 2360631,
    "grounded": 3,
-   "helpful": 2,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
@@ -3508,11 +3508,11 @@
   },
   {
    "customer_tweet_id": 1725469,
-   "grounded": 5,
-   "helpful": 3,
+   "grounded": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1317768,
@@ -3561,8 +3561,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 700661,
@@ -3590,7 +3590,7 @@
   },
   {
    "customer_tweet_id": 300491,
-   "grounded": 1,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -3622,7 +3622,7 @@
   },
   {
    "customer_tweet_id": 2141688,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -3631,10 +3631,10 @@
   {
    "customer_tweet_id": 2045211,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 761833,
@@ -3734,7 +3734,7 @@
   },
   {
    "customer_tweet_id": 388117,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -3761,8 +3761,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
-   "overall": 2
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 980206,
@@ -3822,11 +3822,11 @@
   },
   {
    "customer_tweet_id": 1950462,
-   "grounded": 1,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 1472543,
@@ -3864,9 +3864,9 @@
    "customer_tweet_id": 1830830,
    "grounded": 5,
    "helpful": 1,
-   "tone": 3,
-   "safe": 5,
-   "overall": 3
+   "tone": 5,
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 1913335,
@@ -3886,7 +3886,7 @@
   },
   {
    "customer_tweet_id": 1879597,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -4063,10 +4063,10 @@
   {
    "customer_tweet_id": 1796452,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 1952185,
@@ -4159,10 +4159,10 @@
   {
    "customer_tweet_id": 374022,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 2720917,
@@ -4246,7 +4246,7 @@
   },
   {
    "customer_tweet_id": 1618759,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -4264,9 +4264,9 @@
    "customer_tweet_id": 2018399,
    "grounded": 5,
    "helpful": 1,
-   "tone": 3,
+   "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 2807543,
@@ -4281,8 +4281,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 327644,
@@ -4311,10 +4311,10 @@
   {
    "customer_tweet_id": 2912459,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2239810,
@@ -4336,9 +4336,9 @@
    "customer_tweet_id": 1990721,
    "grounded": 5,
    "helpful": 1,
-   "tone": 3,
+   "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 160553,
@@ -4414,11 +4414,11 @@
   },
   {
    "customer_tweet_id": 2364841,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 2239652,
@@ -4462,11 +4462,11 @@
   },
   {
    "customer_tweet_id": 153753,
-   "grounded": 1,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 2246478,
@@ -4511,10 +4511,10 @@
   {
    "customer_tweet_id": 544598,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 4
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 569618,
@@ -4558,14 +4558,6 @@
   },
   {
    "customer_tweet_id": 511827,
-   "grounded": 3,
-   "helpful": 1,
-   "tone": 5,
-   "safe": 5,
-   "overall": 2
-  },
-  {
-   "customer_tweet_id": 555492,
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4573,12 +4565,20 @@
    "overall": 3
   },
   {
-   "customer_tweet_id": 539199,
-   "grounded": 5,
-   "helpful": 3,
+   "customer_tweet_id": 555492,
+   "grounded": 1,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 2
+  },
+  {
+   "customer_tweet_id": 539199,
+   "grounded": 5,
+   "helpful": 1,
+   "tone": 5,
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 508845,
@@ -4638,7 +4638,7 @@
   },
   {
    "customer_tweet_id": 554128,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -4702,7 +4702,7 @@
   },
   {
    "customer_tweet_id": 597352,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -4758,11 +4758,11 @@
   },
   {
    "customer_tweet_id": 571379,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 2
   },
   {
    "customer_tweet_id": 492418,
@@ -4793,8 +4793,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
-   "overall": 2
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 478111,
@@ -4865,8 +4865,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
-   "overall": 2
+   "safe": 5,
+   "overall": 3
   },
   {
    "customer_tweet_id": 2827794,
@@ -4904,9 +4904,9 @@
    "customer_tweet_id": 1751394,
    "grounded": 5,
    "helpful": 1,
-   "tone": 3,
+   "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 365597,
@@ -4926,15 +4926,15 @@
   },
   {
    "customer_tweet_id": 1344451,
-   "grounded": 3,
-   "helpful": 1,
+   "grounded": 5,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 281320,
-   "grounded": 5,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -4945,16 +4945,16 @@
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
-   "safe": 3,
-   "overall": 1
+   "safe": 5,
+   "overall": 2
   },
   {
    "customer_tweet_id": 778441,
-   "grounded": 1,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 387107,
@@ -4969,8 +4969,8 @@
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 466083,
@@ -5014,15 +5014,15 @@
   },
   {
    "customer_tweet_id": 899407,
-   "grounded": 1,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 2
+   "overall": 3
   },
   {
    "customer_tweet_id": 395418,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -5062,7 +5062,7 @@
   },
   {
    "customer_tweet_id": 366685,
-   "grounded": 1,
+   "grounded": 3,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -5102,7 +5102,7 @@
   },
   {
    "customer_tweet_id": 2056828,
-   "grounded": 3,
+   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
@@ -5118,11 +5118,11 @@
   },
   {
    "customer_tweet_id": 2729336,
-   "grounded": 3,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 3
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 2919322,
@@ -5143,7 +5143,7 @@
   {
    "customer_tweet_id": 2536636,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
@@ -5151,10 +5151,10 @@
   {
    "customer_tweet_id": 1806156,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
-   "safe": 5,
-   "overall": 4
+   "safe": 3,
+   "overall": 2
   },
   {
    "customer_tweet_id": 2913979,
@@ -5167,10 +5167,10 @@
   {
    "customer_tweet_id": 2695172,
    "grounded": 5,
-   "helpful": 1,
+   "helpful": 3,
    "tone": 5,
    "safe": 5,
-   "overall": 3
+   "overall": 4
   },
   {
    "customer_tweet_id": 950000,
@@ -5223,18 +5223,18 @@
   {
    "customer_tweet_id": 2360631,
    "grounded": 5,
-   "helpful": 3,
-   "tone": 5,
-   "safe": 5,
-   "overall": 4
-  },
-  {
-   "customer_tweet_id": 1933355,
-   "grounded": 5,
    "helpful": 1,
    "tone": 5,
    "safe": 5,
    "overall": 3
+  },
+  {
+   "customer_tweet_id": 1933355,
+   "grounded": 5,
+   "helpful": 3,
+   "tone": 5,
+   "safe": 5,
+   "overall": 4
   },
   {
    "customer_tweet_id": 1926547,
@@ -5254,7 +5254,7 @@
   },
   {
    "customer_tweet_id": 765659,
-   "grounded": 5,
+   "grounded": 1,
    "helpful": 1,
    "tone": 5,
    "safe": 3,
@@ -5271,10 +5271,10 @@
   {
    "customer_tweet_id": 1725469,
    "grounded": 5,
-   "helpful": 3,
+   "helpful": 1,
    "tone": 5,
    "safe": 5,
-   "overall": 4
+   "overall": 3
   },
   {
    "customer_tweet_id": 1317768,

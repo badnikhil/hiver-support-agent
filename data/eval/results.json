@@ -637,5 +637,48 @@
    "raw": 0.967
   }
  },
+ "judge": {
+  "n": 220,
+  "mean": {
+   "agent": {
+    "grounded": 4.37,
+    "helpful": 1.74,
+    "tone": 4.96,
+    "safe": 4.89,
+    "overall": 3.2,
+    "pct_overall_ge4": 35.0
+   },
+   "reply_trivial": {
+    "grounded": 3.79,
+    "helpful": 1.35,
+    "tone": 4.98,
+    "safe": 4.92,
+    "overall": 3.0,
+    "pct_overall_ge4": 15.9
+   },
+   "reply_nearest": {
+    "grounded": 4.65,
+    "helpful": 1.25,
+    "tone": 4.98,
+    "safe": 4.84,
+    "overall": 2.97,
+    "pct_overall_ge4": 10.9
+   }
+  },
+  "agent_vs": {
+   "reply_trivial": {
+    "win": 68,
+    "tie": 127,
+    "loss": 25,
+    "win_rate": 0.309
+   },
+   "reply_nearest": {
+    "win": 76,
+    "tie": 114,
+    "loss": 30,
+    "win_rate": 0.345
+   }
+  }
+ },
  "judge_vs_human": null
 }

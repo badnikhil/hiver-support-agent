@@ -3,15 +3,16 @@ usage: uv run scripts/silver_labels.py   (resumable: cached LLM calls are free)
 """
 import collections
 import json
+import sys
 import time
 from pathlib import Path
 
 import pandas as pd
 from tqdm import tqdm
 
-from agent.intents import classify
-
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+from agent.intents import classify  # noqa: E402
 
 
 def main():

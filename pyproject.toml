@@ -9,4 +9,5 @@ dependencies = [
     "numpy",
     "requests",
     "tqdm",
+    "tabulate>=0.10.0",
 ]

@@ -26,7 +26,11 @@ def _trim(text, limit=280):
 def draft_reply(text, intent, exemplars):
     ex = "\n\n".join(f"Customer: {e['customer_text']}\nSpotifyCares: {e['brand_reply_text']}" for e in exemplars[:5])
     user = f"Intent: {intent}\n\nExamples of past customer messages and our replies:\n\n{ex}\n\nNew customer message: {text}\n\nReply:"
-    return _trim(chat(SYSTEM, user, temperature=0.3, max_tokens=120))
+    out = chat(SYSTEM, user, temperature=0.3, max_tokens=120)
+    # drop any URL the model made up (not present in the exemplars)
+    known = set(re.findall(r"https?://\S+", ex))
+    out = re.sub(r"https?://\S+", lambda m: m.group(0) if m.group(0) in known else "", out)
+    return _trim(out)
 
 
 def reply_trivial(text):

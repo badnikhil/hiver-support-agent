@@ -1,6 +1,6 @@
 """classify -> retrieve -> draft -> decide.
 usage: uv run -m agent.pipeline "my songs keep skipping on android"
-       uv run -m agent.pipeline --jsonl in.jsonl --out out.jsonl   (rows need tweet_id + text; resume-safe)
+       uv run -m agent.pipeline --jsonl in.jsonl --out out.jsonl   (rows: tweet_id+text or corpus columns; resume-safe)
 """
 import argparse
 import json
@@ -44,6 +44,7 @@ def main():
     out = Path(a.out)
     done = {json.loads(l)["tweet_id"] for l in out.open()} if out.exists() else set()
     rows = [json.loads(l) for l in open(a.jsonl)]
+    rows = [{"tweet_id": r.get("tweet_id", r.get("customer_tweet_id")), "text": r.get("text", r.get("customer_text"))} for r in rows]
     with out.open("a") as f:
         for row in tqdm([r for r in rows if r["tweet_id"] not in done]):
             r = handle(row["text"], exclude_id=row["tweet_id"])

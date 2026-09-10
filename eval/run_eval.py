@@ -18,6 +18,7 @@ from agent.intents import INTENTS
 from agent.pipeline import run_batch
 from agent.reply import reply_nearest, reply_trivial
 from eval.baselines import ESCALATION_BASELINES, intent_baselines
+from eval import judge as J
 from eval.judge import DIMS, judge
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -70,13 +71,19 @@ def escalation_block(rows, preds):
 
 
 def judge_block(rows, preds):
-    scores = {s: [] for s in SYSTEMS}  # system -> list of {customer_tweet_id, **dims}
+    # committed judge_scores.json is reused (default judge model only) when the reply text is unchanged, so
+    # `make eval` reproduces the tables without Ollama; a re-predicted row or JUDGE_MODEL override re-judges.
+    old = json.loads((OUT / "judge_scores.json").read_text()) if J.MODEL is None and (OUT / "judge_scores.json").exists() else {}
+    old = {(x["customer_tweet_id"], s, x.get("reply")): x for s, lst in old.items() for x in lst}
+    scores = {s: [] for s in SYSTEMS}  # system -> list of {customer_tweet_id, reply, **dims}
     for r in tqdm(rows, desc="judge"):
         p = preds[r["customer_tweet_id"]]
         replies = {"agent": p["draft"], "reply_trivial": reply_trivial(r["customer_text"]),
                    "reply_nearest": reply_nearest(r["customer_text"], p["exemplars"])}
         for s, reply in replies.items():
-            scores[s].append({"customer_tweet_id": r["customer_tweet_id"], **judge(r["customer_text"], reply, r["brand_reply_text"], p["exemplars"])})
+            hit = old.get((r["customer_tweet_id"], s, reply))
+            sc = {d: hit[d] for d in DIMS} if hit else judge(r["customer_text"], reply, r["brand_reply_text"], p["exemplars"])
+            scores[s].append({"customer_tweet_id": r["customer_tweet_id"], "reply": reply, **sc})
     summary = {}
     for s, lst in scores.items():
         summary[s] = {d: round(float(np.mean([x[d] for x in lst])), 2) for d in DIMS}
@@ -125,6 +132,22 @@ def human_block(judge_scores):
         dp = [(int(h[d]), int(x[d])) for h, x in pairs if h.get(d) is not None]
         if len(dp) >= 3:
             out[d] = {"spearman": round(float(spearmanr(*zip(*dp)).statistic), 3), "n": len(dp)}
+    # human scores are the primary reply-quality number: per-system means + paired agent vs nearest on shared rows
+    by = {}
+    for h in human:
+        if h.get("overall") is not None and h.get("system"):
+            by.setdefault(h["system"], []).append(h)
+    out["human_mean"] = {s: {**{d: round(float(np.mean([int(h[d]) for h in lst if h.get(d) is not None])), 2) for d in DIMS},
+                             "pct_overall_ge4": round(float(np.mean([int(h["overall"]) >= 4 for h in lst])) * 100, 1), "n": len(lst)}
+                         for s, lst in by.items()}
+    ag = {h["customer_tweet_id"]: int(h["overall"]) for h in by.get("agent", [])}
+    out["human_agent_vs"] = {}
+    for b, lst in by.items():
+        if b == "agent":
+            continue
+        pairs2 = [(ag[h["customer_tweet_id"]], int(h["overall"])) for h in lst if h["customer_tweet_id"] in ag]
+        out["human_agent_vs"][b] = {"n": len(pairs2), "win": sum(a > c for a, c in pairs2), "tie": sum(a == c for a, c in pairs2),
+                                    "loss": sum(a < c for a, c in pairs2), "win_rate": round(sum(a > c for a, c in pairs2) / max(1, len(pairs2)), 3)}
     return out
 
 
@@ -156,6 +179,14 @@ def to_md(R):
         H = R["judge_vs_human"]
         L.append(f"\n## Judge vs human (n={H['n']})\n" + (H.get("note") or tabulate(
             [[k, v] for k, v in H["overall"].items()], ["overall metric", "value"], tablefmt="github")))
+        if "human_mean" in H:
+            L.append("\n### Per-dimension Spearman (judge vs human)\n" + tabulate(
+                [[d, H[d]["spearman"], H[d]["n"]] for d in DIMS[:-1] if d in H], ["dimension", "spearman", "n"], tablefmt="github"))
+            L.append("\n### Human means by system (blind, 60 rows x 2 systems)\n" + tabulate(
+                [[s] + [v[d] for d in DIMS] + [v["pct_overall_ge4"], v["n"]] for s, v in H["human_mean"].items()],
+                ["system"] + DIMS + ["% overall>=4", "n"], tablefmt="github"))
+            L.append("\n### Human paired: agent vs baseline on overall\n" + tabulate(
+                [[b, v["win"], v["tie"], v["loss"], v["win_rate"]] for b, v in H["human_agent_vs"].items()], ["baseline", "win", "tie", "loss", "win rate"], tablefmt="github"))
     return "\n".join(L) + "\n"
 
 

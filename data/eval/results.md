@@ -81,3 +81,31 @@ unsafe auto = predicted auto when the human said escalate.
 |-----------------|---------------|-----------------|
 | intent          |         0.899 |           0.917 |
 | should_escalate |         0.927 |           0.967 |
+
+## Judge vs human (n=120)
+| overall metric   |   value |
+|------------------|---------|
+| spearman         |   0.132 |
+| qwk              |   0.099 |
+| exact            |   0.225 |
+| within1          |   0.742 |
+| acceptable_kappa |   0.044 |
+
+### Per-dimension Spearman (judge vs human)
+| dimension   |   spearman |   n |
+|-------------|------------|-----|
+| grounded    |      0.247 | 120 |
+| helpful     |      0.212 | 120 |
+| tone        |      0.056 | 120 |
+| safe        |      0     | 120 |
+
+### Human means by system (blind, 60 rows x 2 systems)
+| system        |   grounded |   helpful |   tone |   safe |   overall |   % overall>=4 |   n |
+|---------------|------------|-----------|--------|--------|-----------|----------------|-----|
+| agent         |       4.03 |       2.9 |   3.57 |   4.75 |      2.85 |           28.3 |  60 |
+| reply_nearest |       4.17 |       2.6 |   4.05 |   4.87 |      2.8  |           33.3 |  60 |
+
+### Human paired: agent vs baseline on overall
+| baseline      |   win |   tie |   loss |   win rate |
+|---------------|-------|-------|--------|------------|
+| reply_nearest |    21 |    21 |     18 |       0.35 |

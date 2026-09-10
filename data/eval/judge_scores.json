@@ -2,6 +2,7 @@
  "agent": [
   {
    "customer_tweet_id": 2203700,
+   "reply": "Hey there, we're here to help! Could you share what exact device model and Spotify version you're using? We'll need this info to troubleshoot together. Thanks!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -10,6 +11,7 @@
   },
   {
    "customer_tweet_id": 258948,
+   "reply": "Hey there! Can you check your device and Spotify version, then follow the steps here: https://t.co/zzXH7olRoD? We'll see what's up. Thanks!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -18,6 +20,7 @@
   },
   {
    "customer_tweet_id": 2036299,
+   "reply": "Hey there! It looks like there might be a typo in your message. Could you please clarify what issue you're facing? We'd love to assist further once we understand better.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -26,6 +29,7 @@
   },
   {
    "customer_tweet_id": 2161287,
+   "reply": "Hey! We're launching in South Africa soon. If you have any issues with your current account, can you DM us your username or email? We'll help get it sorted: https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -34,6 +38,7 @@
   },
   {
    "customer_tweet_id": 1836182,
+   "reply": "Hey there! We understand this is frustrating. Could you please let us know what error messages, if any, you are seeing on the signup page? And do you mind sharing your browser and operating system details? Thanks!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -42,6 +47,7 @@
   },
   {
    "customer_tweet_id": 700661,
+   "reply": "Hey there! We\u2019ve recently updated our shuffle algorithm to improve diversity. If you still experience issues, could you share which songs are playing too frequently? We\u2019d love to help resolve this for you.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -50,6 +56,7 @@
   },
   {
    "customer_tweet_id": 2690055,
+   "reply": "Hey there! Sometimes content gets temporarily removed due to licensing changes. Hopefully we'll have Black Silk available again soon. If you need further assistance, feel free to DM me. \ud83c\udfa7\u2728",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -58,6 +65,7 @@
   },
   {
    "customer_tweet_id": 1492463,
+   "reply": "Hi there! To help us understand better, can you please let us know the titles of tracks by both artists that are missing from the New Releases section this week? We'll look into it for you. /SpotifyCares",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -66,6 +74,7 @@
   },
   {
    "customer_tweet_id": 300491,
+   "reply": "Hey there! For new feature requests, we'd love to hear more about them. Could you please let us know which specific features from Play Spotify have been missed in the Open version?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -74,6 +83,7 @@
   },
   {
    "customer_tweet_id": 739476,
+   "reply": "Hey there! To help with that, you might want to check if your device is running the latest version of our app. Sometimes updates can fix issues like this. Let's try restarting your device and see if it works now.",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -82,6 +92,7 @@
   },
   {
    "customer_tweet_id": 2070844,
+   "reply": "Hi there! Could you please DM us so we can take a look at your account and ensure everything is working correctly? We'll need access to check this out.",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -90,6 +101,7 @@
   },
   {
    "customer_tweet_id": 48091,
+   "reply": "Hey! We'd love to help with this. Can you please share your device type, operating system, and the Spotify version you're using? This will help us understand better. Just tap on the three dots next to the song > Share > Copy Link and send it our way! #UXImprovement",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -98,6 +110,7 @@
   },
   {
    "customer_tweet_id": 2141688,
+   "reply": "Hey there! Our focus is on providing great music experiences. Feel free to share any issues or suggestions for improvement directly with us if needed. Thanks!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -106,6 +119,7 @@
   },
   {
    "customer_tweet_id": 2045211,
+   "reply": "Hey there! If you're having trouble accessing this offer, could you DM us your Spotify account's username or email address? We'll check things backstage and see what we can do.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -114,6 +128,7 @@
   },
   {
    "customer_tweet_id": 761833,
+   "reply": "Hey! For Amazon Fire TV, Connect functionality isn't available yet. You can follow this thread to see if others have similar questions and ideas for improvement: Thanks for your understanding!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -122,6 +137,7 @@
   },
   {
    "customer_tweet_id": 2079797,
+   "reply": "Hey there! It sounds like you're having trouble with our Search bar. Could you please describe what's not working as expected when you use it?",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -130,6 +146,7 @@
   },
   {
    "customer_tweet_id": 922699,
+   "reply": "Hey there! Thanks for letting us know. Can you please send over the Spotify URI of the artist or album that seems incorrect? It will help us look into it faster.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -138,6 +155,7 @@
   },
   {
    "customer_tweet_id": 2047766,
+   "reply": "Hi there! The student discount for Spotify+Hulu applies only to those currently enrolled in accredited colleges. For now, we recommend checking out other ways to enjoy music while you're a high school student. We'll keep this in mind for future updates. /XX",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -146,6 +164,7 @@
   },
   {
    "customer_tweet_id": 634022,
+   "reply": "Hey! Seems like there's a mix-up with your playlist here. Could you please share more details? Like the device type, operating system, and Spotify version you're using? We'll troubleshoot this together! /SC",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -154,6 +173,7 @@
   },
   {
    "customer_tweet_id": 193285,
+   "reply": "Hey there! To help you out, could you DM us your username and email address? We'll check behind the scenes to ensure everything is set up correctly \ud83d\udee0\ufe0f https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -162,6 +182,7 @@
   },
   {
    "customer_tweet_id": 228054,
+   "reply": "Hey there! When you say \"not even touching it,\" do you mean Spotify is still skipping songs while playing in the background? Could you check if you're getting any error messages or notifications that might help us troubleshoot? If so, please share a screenshot.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -170,6 +191,7 @@
   },
   {
    "customer_tweet_id": 2883260,
+   "reply": "Hi there! Can you please DM us your account's username or email address? We'll check if we can help you out backstage.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -178,6 +200,7 @@
   },
   {
    "customer_tweet_id": 852703,
+   "reply": "Hey there! We\u2019re working on adding more features and platforms like Spotify on Apple TV. Keep an eye out for updates or join our community forum to stay connected with other users who want similar things: #AskTwitter",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -186,6 +209,7 @@
   },
   {
    "customer_tweet_id": 301912,
+   "reply": "Hey there! What exactly is going on with your Spotify? We'll see what we can suggest \ud83c\udf55",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -194,6 +218,7 @@
   },
   {
    "customer_tweet_id": 788621,
+   "reply": "Hey there! What device and operating system are you using? Let's see how we can help you focus on listening to music without Facebook interruptions.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -202,6 +227,7 @@
   },
   {
    "customer_tweet_id": 1891248,
+   "reply": "Hey there! It sounds like you're experiencing some issues with your playlists. Could it be related to the different language versions of the Hi-Fi service? If so, you might want to check if switching between these versions resolves the issue.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -210,6 +236,7 @@
   },
   {
    "customer_tweet_id": 388117,
+   "reply": "Hey there, help's here! Could you DM us your username and email address so we can look into it for you \ud83d\udcc5 https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -218,6 +245,7 @@
   },
   {
    "customer_tweet_id": 767005,
+   "reply": "Hi there! If you're already on the student discount, you can still get this offer. More info here: https://t.co/hAqefUikr2",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -226,6 +254,7 @@
   },
   {
    "customer_tweet_id": 728404,
+   "reply": "Hey! It sounds frustrating. Could you please check your device, operating system, and Spotify version? Let's see what we can suggest next. /SpotifyCares",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -234,6 +263,7 @@
   },
   {
    "customer_tweet_id": 280591,
+   "reply": "Hey! We've made a few tweaks backstage. Can you let us know what device and operating system you're using, along with any error messages? Screenshots would be helpful. Also, we'll check if there are any issues preventing the premium upgrade option from appearing.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -242,6 +272,7 @@
   },
   {
    "customer_tweet_id": 980206,
+   "reply": "Hey! Fingers crossed we'll be able to have it soon, but you can find more info about Spotify content here: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 3,
@@ -250,6 +281,7 @@
   },
   {
    "customer_tweet_id": 404600,
+   "reply": "Hey there! To view all songs in a public playlist, you need to add each song individually or follow the user who created the playlist.",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -258,6 +290,7 @@
   },
   {
    "customer_tweet_id": 261680,
+   "reply": "Hey there! It sounds like you're having trouble with Spotify. Could you please try signing out and then signing back in? Sometimes this resolves playback issues quickly. If the problem persists, feel free to DM me for further assistance.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -266,6 +299,7 @@
   },
   {
    "customer_tweet_id": 971287,
+   "reply": "Hey! Can you please DM us your account's username and email address so we can check this out? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -274,6 +308,7 @@
   },
   {
    "customer_tweet_id": 189825,
+   "reply": "Hey there! What exactly is going on with your Spotify? We'll see what we can suggest \ud83d\udd0d",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -282,6 +317,7 @@
   },
   {
    "customer_tweet_id": 1093231,
+   "reply": "Hey there! This isn\u2019t possible right now, but we have more info about this on our Community. Check it out: https://t.co/oGDLtirXki",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -290,6 +326,7 @@
   },
   {
    "customer_tweet_id": 30601,
+   "reply": "Hey there! To help us better, can you DM us your account's username or email address? We'll take a look under the hood. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 3,
@@ -298,6 +335,7 @@
   },
   {
    "customer_tweet_id": 1950462,
+   "reply": "Hey there! For adding multiple songs to the queue, you can try using the \"Add to Queue\" button next to each song. As for the app being slow, logging out > restarting the device > logging back in might help. Let us know if that works!",
    "grounded": 3,
    "helpful": 5,
    "tone": 5,
@@ -306,6 +344,7 @@
   },
   {
    "customer_tweet_id": 1472543,
+   "reply": "Hey there! Can you let us know the Spotify version you're using? Also, what device are you streaming on and its operating system? We'll troubleshoot this together.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -314,6 +353,7 @@
   },
   {
    "customer_tweet_id": 788972,
+   "reply": "Hey there! Not available at this time, but you can show your support by voting on this idea: https://t.co/XNY8x8htE6",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -322,6 +362,7 @@
   },
   {
    "customer_tweet_id": 963754,
+   "reply": "You're very welcome! That's great news that you were able to get your account back so quickly with our help. If you have any other questions or need further assistance, feel free to reach out. Thanks for sharing this positive experience! \ud83c\udf1f",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -330,6 +371,7 @@
   },
   {
    "customer_tweet_id": 2067121,
+   "reply": "Hey! If you're Premium, you can connect your Spotify account to the Musixmatch mobile app to enjoy lyrics that stay on screen: https://t.co/scvbRH6MhL",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -338,6 +380,7 @@
   },
   {
    "customer_tweet_id": 1830830,
+   "reply": "Hey Dina! Could you please send us a DM with your account's email address so we can check this out? We'll continue helping you backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -346,6 +389,7 @@
   },
   {
    "customer_tweet_id": 1913335,
+   "reply": "Hey there! To help us out, can you please send your account's email address or username via DM? We'll check it out for you. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -354,6 +398,7 @@
   },
   {
    "customer_tweet_id": 1955898,
+   "reply": "Hey there! For more info on features like this one, check out our help center:",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -362,6 +407,7 @@
   },
   {
    "customer_tweet_id": 1879597,
+   "reply": "Hi! We're sorry to hear this happened. Could you please DM us so we can look into your specific issue with your credit card change? We'll need more details there to assist properly.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -370,6 +416,7 @@
   },
   {
    "customer_tweet_id": 1861515,
+   "reply": "Hi there! Can you please check your phone's make/model and operating system? We'll need this info to help troubleshoot. Thanks!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -378,6 +425,7 @@
   },
   {
    "customer_tweet_id": 1825383,
+   "reply": "Hey! We can't offer compensation, but your Discover Weekly should improve as it gets to know you. To help, try adding your favorite Mac Demarco tracks directly to Your Library or playlists. This way, they'll be included in future Discover Weekly recommendations.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -386,6 +434,7 @@
   },
   {
    "customer_tweet_id": 1652627,
+   "reply": "Hey there! Audio distortion can be tricky. Have you tried restarting your device or checking if it's related to a specific song? Sometimes updating Spotify might also help resolve such issues. If not, consider letting us know in a direct message for further assistance.",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -394,6 +443,7 @@
   },
   {
    "customer_tweet_id": 633766,
+   "reply": "Hey! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -402,6 +452,7 @@
   },
   {
    "customer_tweet_id": 1033688,
+   "reply": "Hey! We've just sent you a DM your way. Let's carry on chatting there and we can troubleshoot this together!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -410,6 +461,7 @@
   },
   {
    "customer_tweet_id": 315362,
+   "reply": "Hi there! The Time Capsule playlist is a one-time compilation and doesn't update like other playlists. It's designed for a specific period in your music history. Let us know if you have any other questions or need help with something else!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -418,6 +470,7 @@
   },
   {
    "customer_tweet_id": 2072408,
+   "reply": "Hey there! @34654's \"Witness\" isn't available to stream just yet. For the latest updates, check out this link: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -426,6 +479,7 @@
   },
   {
    "customer_tweet_id": 2986421,
+   "reply": "Hey there! If you were previously on student and now want to subscribe again as a student, we can look into refunding any overcharged amount. Can you DM us your account's email address so we can check this out? We'll take a look under the hood https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -434,6 +488,7 @@
   },
   {
    "customer_tweet_id": 1493539,
+   "reply": "Hey! For now, can you DM us your account's username or email address? We'll check under the hood to see what's happening https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -442,6 +497,7 @@
   },
   {
    "customer_tweet_id": 1792450,
+   "reply": "Hey! Thanks for letting us know about the new album. It sounds like a great addition. Do you have any questions about it or would you like more information? If not, we can move on to other topics. Let me know how I can assist further! /SC",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -450,6 +506,7 @@
   },
   {
    "customer_tweet_id": 2079812,
+   "reply": "Hey! To help, we need to take a closer look at your accounts. Can you DM us both your current and the old account's email address or username? We'll make sure everything is set up correctly https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -458,6 +515,7 @@
   },
   {
    "customer_tweet_id": 416215,
+   "reply": "Hey there! It sounds like you're experiencing issues with your account. Could you please check and let us know your device type (iOS or Android), operating system, and any error messages you receive? Screenshots can be very helpful. Thanks! /SC",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -466,6 +524,7 @@
   },
   {
    "customer_tweet_id": 1811666,
+   "reply": "Hey there! Could you DM us your account's username and email address? We'll see what we can suggest. A screenshot of any error messages you're getting would be really helpful too. Thanks! https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -474,6 +533,7 @@
   },
   {
    "customer_tweet_id": 1809644,
+   "reply": "Hey there! It sounds like you're experiencing a lot of ads. Since you're not using a premium account, we can suggest some ways to improve your experience. Could you please share the device you're using? We'll look into it for you. /SC",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -482,6 +542,7 @@
   },
   {
    "customer_tweet_id": 1785649,
+   "reply": "Hi there, help's here! Could you DM us your account's username and email address? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -490,6 +551,7 @@
   },
   {
    "customer_tweet_id": 616779,
+   "reply": "Hey there! We've just replied to your DM. Let's continue chatting there for troubleshooting tips.",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -498,6 +560,7 @@
   },
   {
    "customer_tweet_id": 2058205,
+   "reply": "Hey! To help better, can you please provide the artist or album name you're looking for? We have some info about content here: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -506,6 +569,7 @@
   },
   {
    "customer_tweet_id": 1933353,
+   "reply": "Hey there! Can you DM us your account's email address so we can check this out? We'll make sure it's all set up correctly for you. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -514,6 +578,7 @@
   },
   {
    "customer_tweet_id": 1032420,
+   "reply": "Hey there! Can you DM us your account's email address? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -522,6 +587,7 @@
   },
   {
    "customer_tweet_id": 1802968,
+   "reply": "Hey! That doesn't sound good. Can you DM us your account's email address or username? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -530,6 +596,7 @@
   },
   {
    "customer_tweet_id": 1790852,
+   "reply": "Hey! We\u2019re here for you. Please try logging in with a different device or email to reset your password. If that doesn\u2019t work, we recommend reaching out directly through DMs for further assistance. \ud83d\udee0\ufe0f",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -538,6 +605,7 @@
   },
   {
    "customer_tweet_id": 1796452,
+   "reply": "Hey there, sorry to hear that! Check out the steps under \u201cDownloads unexpectedly removed\u201d at https://t.co/38J7tFlIBF. They should help with this.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -546,6 +614,7 @@
   },
   {
    "customer_tweet_id": 1952185,
+   "reply": "Hey! The cavalry's here. Can you fire over the device's make/model, operating system, and the Spotify version you're using? We'll see what we can suggest to help with that issue.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -554,6 +623,7 @@
   },
   {
    "customer_tweet_id": 250107,
+   "reply": "Hey there! We're glad to hear that the Waze and Spotify integration is making your driving experience even better. If you have any more feedback or need help with something else, feel free to reach out directly! \ud83c\udf89",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -562,6 +632,7 @@
   },
   {
    "customer_tweet_id": 1875152,
+   "reply": "Hey there! Restarting didn't solve it this time. Can you try signing out of Spotify completely (settings > sign out) and then sign back in? If that still doesn't work, we may need to look at your account settings or console. Let me know what happens! /SC",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -570,6 +641,7 @@
   },
   {
    "customer_tweet_id": 1160864,
+   "reply": "Hey there! Could you let us know your exact Spotify version and if you're seeing any error messages when this happens? We'll see what we can suggest for improving performance on your device.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -578,6 +650,7 @@
   },
   {
    "customer_tweet_id": 1036114,
+   "reply": "Hi there! To help you out, could you DM us your account's username or email address? We'll check if everything is verified behind the scenes. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -586,6 +659,7 @@
   },
   {
    "customer_tweet_id": 1956771,
+   "reply": "Hi there! To help with this, can you tell us the device, operating system, and Spotify version you're using? A screenshot showing what you see would be really helpful. Alternatively, you can DM us for more personalized assistance https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 3,
@@ -594,6 +668,7 @@
   },
   {
    "customer_tweet_id": 1788208,
+   "reply": "Hey Sarah, we understand you're having trouble logging in. Please check out the link below for steps on how to reset your password or change your login details: If it doesn't work, feel free to DM us with your username and we can help further \ud83d\udd0d https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -602,6 +677,7 @@
   },
   {
    "customer_tweet_id": 1234849,
+   "reply": "Hey there! Can you DM us your account's email address or username? We'll take a look backstage and see what we can do. Thanks!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -610,6 +686,7 @@
   },
   {
    "customer_tweet_id": 361507,
+   "reply": "Hey there! We can see how that'd be useful. Suggest it in our Community at https://t.co/rtDvYZOF32 and get support from other users",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -618,6 +695,7 @@
   },
   {
    "customer_tweet_id": 788585,
+   "reply": "Hey there! Sorry to hear that. Could you DM us your account's email address or username? We'll look into it backstage \ud83d\udd0d https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -626,6 +704,7 @@
   },
   {
    "customer_tweet_id": 1920364,
+   "reply": "Hey there! It sounds like the ad is still causing issues. Have you tried opening the web player in a different browser or device? Let us know how that goes!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -634,6 +713,7 @@
   },
   {
    "customer_tweet_id": 374022,
+   "reply": "Hey there! We've just sent a message over DM. Let's continue the conversation there. If you need more info, feel free to check your DMs.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -642,6 +722,7 @@
   },
   {
    "customer_tweet_id": 2720917,
+   "reply": "Hey there! Your offer is available to new subscribers only. For more details, check out our terms and conditions at If you have any other questions, DM us for a quick reply!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -650,6 +731,7 @@
   },
   {
    "customer_tweet_id": 1480464,
+   "reply": "Hey there! It sounds like you're having trouble with Spotify. Could you please check if this issue persists when using an incognito browser? That might help us narrow down the problem. Let's see if we can get it working for you!",
    "grounded": 4,
    "helpful": 2,
    "tone": 5,
@@ -658,6 +740,7 @@
   },
   {
    "customer_tweet_id": 2128547,
+   "reply": "Hey there! To help with your issue, can you try reinstalling Spotify? Here's a guide to do that: Let us know how it goes!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -666,6 +749,7 @@
   },
   {
    "customer_tweet_id": 100177,
+   "reply": "Hey there! We're glad you're all set now. If you have any more issues, just let us know or give us a DM for further assistance. Enjoy your tunes!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -674,6 +758,7 @@
   },
   {
    "customer_tweet_id": 2284062,
+   "reply": "Hi there! Can you DM us your account's email address and username? We'll take a look backstage to help you get back in. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -682,6 +767,7 @@
   },
   {
    "customer_tweet_id": 1760776,
+   "reply": "Hey there! To help better, could you please tell me what Spotify version and iOS version you're using? We'll see what we can do to assist.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -690,6 +776,7 @@
   },
   {
    "customer_tweet_id": 1991455,
+   "reply": "Hi there! Could you share the link to the song \"Niggas in Paris\" so we can check if it's still being blocked? Sometimes titles get flagged. Here\u2019s how:",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -698,6 +785,7 @@
   },
   {
    "customer_tweet_id": 1748248,
+   "reply": "Hey! To help with that, please reach out to your distributor or aggregator. They can work with our team to move your song to the correct artist page. You might want to check their contact info here: Let us know if you need more assistance!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -706,6 +794,7 @@
   },
   {
    "customer_tweet_id": 2942699,
+   "reply": "Hi there! Can you please DM us your account's email address? We'll check if everything is set up correctly and help resolve the issue. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -714,6 +803,7 @@
   },
   {
    "customer_tweet_id": 2592336,
+   "reply": "Hey there! We're working on ensuring compatibility updates are available for all devices, including iPhone X. Keep an eye out or give us a DM if you need more info.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -722,6 +812,7 @@
   },
   {
    "customer_tweet_id": 1618759,
+   "reply": "Hey! To help with this, could you please check if the new music is in your Recently Played section? If not, we might need to look into why it's not appearing there yet. Would you like more info on how to access Recently Played? /SC",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -730,6 +821,7 @@
   },
   {
    "customer_tweet_id": 2021156,
+   "reply": "Hey there! To start, you might want to explore our current job openings for roles like Playlist Creator. Check out this link for more info: Good luck with your career goals!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -738,6 +830,7 @@
   },
   {
    "customer_tweet_id": 2018399,
+   "reply": "Hey there! What seems to be happening? We're here to help if you can share more details. Let's figure this out together! \ud83c\udf1f",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -746,6 +839,7 @@
   },
   {
    "customer_tweet_id": 2807543,
+   "reply": "Hey there! It sounds like it might be a licensing issue. We'll keep an eye out and let you know when we hear back from the Content team. More info at https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -754,6 +848,7 @@
   },
   {
    "customer_tweet_id": 1602045,
+   "reply": "Hey! To help you with this, we need more details. Can you please DM us your account's email address or username? We'll check it out for you https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -762,6 +857,7 @@
   },
   {
    "customer_tweet_id": 327644,
+   "reply": "Hey there! Can you please let us know your iOS and Spotify versions? Also, have you tried logging out > restarting your device > logging back in?",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -770,6 +866,7 @@
   },
   {
    "customer_tweet_id": 2225625,
+   "reply": "Hey there! We're working on it as we speak. Stay tuned!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -778,6 +875,7 @@
   },
   {
    "customer_tweet_id": 2031920,
+   "reply": "Hey there! Could you try clearing your browser cache and cookies, then restarting your browser? Let us know if that helps or if it's still happening. If not, we may need to take a closer look at your account in a DM.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -786,6 +884,7 @@
   },
   {
    "customer_tweet_id": 2912459,
+   "reply": "Hey there! Could you please DM us your account details so we can take a look at what's happening? https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -794,6 +893,7 @@
   },
   {
    "customer_tweet_id": 2239810,
+   "reply": "Hey there! To help, can you please share the operating system and Spotify version you're using? We'll see what we can suggest about your queue. /SPCX",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -802,6 +902,7 @@
   },
   {
    "customer_tweet_id": 2148236,
+   "reply": "Hey there! Could you please let us know what Spotify version you're using so we can see if there are any suggestions for you? We\u2019re working on it and will keep you updated.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -810,6 +911,7 @@
   },
   {
    "customer_tweet_id": 1990721,
+   "reply": "Hey there! Sorry to hear that! Check out the steps under \u201cDownloads unexpectedly removed\u201d at https://t.co/38J7tFlIBF. They should help with this!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -818,6 +920,7 @@
   },
   {
    "customer_tweet_id": 160553,
+   "reply": "Hey there! Currently, you can download 3,333 songs for offline use per device. If you're seeing fewer than 3 songs available as \"Recently Played\" (RBD), it might be due to the number of tracks in your library or licensing restrictions.",
    "grounded": 5,
    "helpful": 4,
    "tone": 5,
@@ -826,6 +929,7 @@
   },
   {
    "customer_tweet_id": 1723525,
+   "reply": "Hey there! Can you please DM us your account's email address or username so we can check it out? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -834,6 +938,7 @@
   },
   {
    "customer_tweet_id": 2487414,
+   "reply": "Hey! Thanks for the feedback. We've noted that you'd like to see more songs displayed at once on artists' pages. You can vote for this idea here: https://t.co/zWupaEr6qT",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -842,6 +947,7 @@
   },
   {
    "customer_tweet_id": 1767684,
+   "reply": "Hey there! The color code for Spotify's brand isn't 1ED760. Our primary color is more like #543C27. Is there something specific you'd like to know about our services?",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -850,6 +956,7 @@
   },
   {
    "customer_tweet_id": 2632606,
+   "reply": "Hey there! To help with this, could you please share your current language and country settings? We might need to adjust them separately. You can check or change these in Settings > Account > Language & Region. Let us know how it goes! /SC",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -858,6 +965,7 @@
   },
   {
    "customer_tweet_id": 2446510,
+   "reply": "Hey! We understand you're frustrated. Our team is aware of this issue and working on it as we speak. Stay tuned for updates.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -866,6 +974,7 @@
   },
   {
    "customer_tweet_id": 2251410,
+   "reply": "Hey! To reduce the number of Suggested Tracks you get, try adding more artists into your playlists. This might help lessen the variety of music that appears while you're streaming an album.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -874,6 +983,7 @@
   },
   {
    "customer_tweet_id": 2513100,
+   "reply": "Hey there! We can help with that. Can you please check if the song is available on your device? Sometimes songs get temporarily removed due to licensing changes. If it's not, we'll try reporting it and see what we can do. Let us know how it goes! \ud83c\udfb5",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -882,6 +992,7 @@
   },
   {
    "customer_tweet_id": 2251358,
+   "reply": "Hey! To help resolve this, we need you to send us a DM with your account's email address or username so we can take a look backstage. Thanks!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -890,6 +1001,7 @@
   },
   {
    "customer_tweet_id": 2364841,
+   "reply": "Hey there! Can you let us know your device make/model, its operating system version, and the Spotify app version? We'll see what we can do to help. Keep us updated!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -898,6 +1010,7 @@
   },
   {
    "customer_tweet_id": 2239652,
+   "reply": "Hey! Taylor Swift's 'Reputation' isn't available to stream just yet \u2013 stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -906,6 +1019,7 @@
   },
   {
    "customer_tweet_id": 2517282,
+   "reply": "Hey there! Since you can't uninstall the Sony TV update, let's try a workaround. Can you confirm what version of Spotify you're using and your device model? We'll see if we can get it working again. /XX",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -914,6 +1028,7 @@
   },
   {
    "customer_tweet_id": 1162323,
+   "reply": "Hey! Can you let us know your device's make/model, operating system, and Spotify version? We'll check if it's a known issue or how to resolve your \"no internet detected\" error.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -922,6 +1037,7 @@
   },
   {
    "customer_tweet_id": 2684264,
+   "reply": "Hi there! To help with this, can you please DM us your email address so we can look into linking your Unidays to the correct Spotify account and review any charges. We'll take a closer look at your situation https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -930,6 +1046,7 @@
   },
   {
    "customer_tweet_id": 2139022,
+   "reply": "Hey! If your Premium ends on 11/10/17, we need to ensure that's correct first. Can you DM us your account's email address or username so we can check this for you? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -938,6 +1055,7 @@
   },
   {
    "customer_tweet_id": 153753,
+   "reply": "Hey! For changing the order of songs within your playlist, can you please let us know if you're using a mobile or desktop device and what operating system it is running on? We'll see what we can suggest. /SC",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -946,6 +1064,7 @@
   },
   {
    "customer_tweet_id": 2246478,
+   "reply": "Hey there!, We had a bit of an issue earlier. Can you check if the Web Player works with Safari? If it still doesn't work, let us know and we'll look into it further. /XX",
    "grounded": 3,
    "helpful": 5,
    "tone": 5,
@@ -954,6 +1073,7 @@
   },
   {
    "customer_tweet_id": 2342559,
+   "reply": "Hey there! Can you DM us your account's email address or username? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 3,
@@ -962,6 +1082,7 @@
   },
   {
    "customer_tweet_id": 568965,
+   "reply": "Hi there! Can you tell us what Android and Spotify app versions you have on your OnePlus 3T? We'll see what we can suggest to get your speaker working again.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -970,6 +1091,7 @@
   },
   {
    "customer_tweet_id": 576782,
+   "reply": "Hey there! Our Curation team uses taste, data, research, and trends to create playlists. If you notice incorrect genres or lack of representation, please share more details so we can look into it. Thanks!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -978,6 +1100,7 @@
   },
   {
    "customer_tweet_id": 554138,
+   "reply": "Hey! You should be able to sort and filter your playlists on your mobile device. Check out the steps at https://t.co/5hjtm5AdqM \ud83c\udf89",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -986,6 +1109,7 @@
   },
   {
    "customer_tweet_id": 544598,
+   "reply": "Hey there! \ud83d\ude4c Thanks so much for your feedback. If you need any specific help, just give us a shout or send it our way in a DM. We're here to assist! Have a great day! \ud83d\ude0a",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -994,6 +1118,7 @@
   },
   {
    "customer_tweet_id": 569618,
+   "reply": "Hey! We\u2019ll have it available to you as soon as it\u2019s available to us. You can track updates here: https://t.co/0i8GpimuDa \ud83c\udf89",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1002,6 +1127,7 @@
   },
   {
    "customer_tweet_id": 564491,
+   "reply": "Hey there! Can you please DM us your account's email address so we can help you reset it to use your email instead of Facebook? We'll take a look behind the scenes. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1010,6 +1136,7 @@
   },
   {
    "customer_tweet_id": 555494,
+   "reply": "Hi there! Our \u00a399 per year deal for Premium is currently only available to new users who sign up directly.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1018,6 +1145,7 @@
   },
   {
    "customer_tweet_id": 570525,
+   "reply": "Hey there! Sometimes content gets temporarily removed or limited due to licensing changes.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1026,6 +1154,7 @@
   },
   {
    "customer_tweet_id": 510537,
+   "reply": "Hi there! If your cancellation was successful and you've stopped using Premium, we can check the status of your pending transaction. Can you please DM us your account's email address so we can look into this for you? https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1034,6 +1163,7 @@
   },
   {
    "customer_tweet_id": 511827,
+   "reply": "Hey there! You can try importing your podcast feeds using the \"Add Podcasts\" feature by following these steps: 1. Go to 2. Click on \"Import RSS Feed\" 3. Paste your OPML feed URL here and follow the prompts.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1042,6 +1172,7 @@
   },
   {
    "customer_tweet_id": 555492,
+   "reply": "Hey there! Are you getting any error messages when trying to skip songs on Spotify Premium? If not, does logging out and back in help? Let us know if restarting your device doesn't resolve the issue. rdw1981",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1050,6 +1181,7 @@
   },
   {
    "customer_tweet_id": 539199,
+   "reply": "Hey there! It sounds like you might have missed a billing update. Can you check your account details to confirm? We can guide you further if needed.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1058,6 +1190,7 @@
   },
   {
    "customer_tweet_id": 508845,
+   "reply": "Hey! Our Curation team are independent and use taste, data, research, and trends to create playlists, but we\u2019ll pass on your suggestion. If you\u2019d like to share more about why this song fits perfectly for \"Today\u2019s Top Hits,\" we might consider it next time! /sc",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1066,6 +1199,7 @@
   },
   {
    "customer_tweet_id": 508875,
+   "reply": "Hey there! Can you DM us your account's username or email address? We'll see what we can suggest for this issue https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1074,6 +1208,7 @@
   },
   {
    "customer_tweet_id": 601866,
+   "reply": "Hey! The \"99p Deets\" isn't available to stream just yet. For now, you can check out other playlists or artists on Spotify: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1082,6 +1217,7 @@
   },
   {
    "customer_tweet_id": 466060,
+   "reply": "Hey there! Could you DM us your account's email address and a screenshot of the error message? We'll check it out for you https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1090,6 +1226,7 @@
   },
   {
    "customer_tweet_id": 565409,
+   "reply": "Hi there! To help, can you please provide a specific error message or screenshot if available? Also, do you remember any recent changes that might have affected your login? We'll need this info to troubleshoot. Let's continue in DMs for more details.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1098,6 +1235,7 @@
   },
   {
    "customer_tweet_id": 502663,
+   "reply": "Hi there! If your account's status remains free after upgrading, please send us a DM with your username and email address so we can check it out. We'll help you get back on track! https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1106,6 +1244,7 @@
   },
   {
    "customer_tweet_id": 504279,
+   "reply": "Hey there! We hear you loud and clear, xx. We can\u2019t make any promises but we\u2019ll pass your feedback onto the right folks. Let us know if you need help with anything else!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1114,6 +1253,7 @@
   },
   {
    "customer_tweet_id": 554128,
+   "reply": "Hey there! How long has this been happening? Can you try restarting the app, then logging back in? Let us know how it goes.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1122,6 +1262,7 @@
   },
   {
    "customer_tweet_id": 482459,
+   "reply": "Hey there! Can you let us know your OnePlus 5's operating system and the Spotify version you're using when it crashes on launch? We'll see what we can suggest.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1130,6 +1271,7 @@
   },
   {
    "customer_tweet_id": 573221,
+   "reply": "Hey there! You can get in touch with us via email here: https://t.co/zu6tKiIYUg. Please send the member's email address so we can check the issue for you. Thanks!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1138,6 +1280,7 @@
   },
   {
    "customer_tweet_id": 590147,
+   "reply": "Hey there! We don't have specific info for when this will be released yet. It might appear as an email, but we'll keep you updated with any changes. Stay tuned! /XX",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1146,6 +1289,7 @@
   },
   {
    "customer_tweet_id": 494237,
+   "reply": "Hey, that doesn't sound right! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1154,6 +1298,7 @@
   },
   {
    "customer_tweet_id": 486947,
+   "reply": "Hey there, help's here! Could you DM us your account's email address and username? We'll check this out for you https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1162,6 +1307,7 @@
   },
   {
    "customer_tweet_id": 501008,
+   "reply": "Hi there! Help's here. Can you try clearing your browser's cache/cookies and refreshing? Let us know if this helps or if it's still stuck on the commercial.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1170,6 +1316,7 @@
   },
   {
    "customer_tweet_id": 576201,
+   "reply": "Hey there! To help you merge your Spotify Artist Profile with your User Account, could you please send us your email address or Spotify username via DM? We'll take a look and get it sorted. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1178,6 +1325,7 @@
   },
   {
    "customer_tweet_id": 597352,
+   "reply": "Hey there! Could you try signing up at If it still doesn't work, let us know your email address so we can check further in a DM. Thanks!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1186,6 +1334,7 @@
   },
   {
    "customer_tweet_id": 591475,
+   "reply": "Hi there! Can you please check your device's screen resolution and let us know if it matches what\u2019s listed for your model? Also, could you share your iOS version and Spotify version details? We'll look into this further.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1194,6 +1343,7 @@
   },
   {
    "customer_tweet_id": 574268,
+   "reply": "Hey there! Could you DM us your account's email address and username so we can take a look at what might be causing the issue? We'll help get it resolved. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1202,6 +1352,7 @@
   },
   {
    "customer_tweet_id": 581525,
+   "reply": "Hey there! Could you describe when this happens\u2014specifically, what device and operating system are you using? We'll see what we can suggest.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1210,6 +1361,7 @@
   },
   {
    "customer_tweet_id": 554121,
+   "reply": "Hey there! You're welcome. If you need any more help, just let us know in a direct message. \ud83c\udfb6\ud83d\udc96",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1218,6 +1370,7 @@
   },
   {
    "customer_tweet_id": 570523,
+   "reply": "Hey there! Curious about this too. You can add your vote for implementing touch swipe features here: We value user feedback like yours!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1226,6 +1379,7 @@
   },
   {
    "customer_tweet_id": 502659,
+   "reply": "Hey there! Appreciate the kind words about the Running Playlist Steps/minute feature. For your request, we can see how controlling the length of music clips would be helpful. We'll pass this suggestion on to our team for consideration. Thanks for reaching out! \ud83c\udfc3\u200d\u2642\ufe0f\u2728",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1234,6 +1388,7 @@
   },
   {
    "customer_tweet_id": 571379,
+   "reply": "Hey, we appreciate you reaching out! Changing your payment method can sometimes cause temporary billing issues. Could you check if the amount is correct by logging into your account? If it still shows incorrectly, let us know and we'll look into it further. /XC",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1242,6 +1397,7 @@
   },
   {
    "customer_tweet_id": 492418,
+   "reply": "Hey there! Can you DM us your account's username or the email address you think you used to sign up? We'll check behind the scenes https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1250,6 +1406,7 @@
   },
   {
    "customer_tweet_id": 464476,
+   "reply": "Hey there! We understand this must be frustrating. Since you received an email about resetting your password due to a breach, can you DM us your account's email address? We'll check it out and help resolve the issue backstage. https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1258,6 +1415,7 @@
   },
   {
    "customer_tweet_id": 468975,
+   "reply": "Hey there! We'd be happy to add his song. You can check the status of your request here: If you need anything else, just let us know! \ud83c\udfb6",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1266,6 +1424,7 @@
   },
   {
    "customer_tweet_id": 462649,
+   "reply": "Hey there! We're glad you love Spotify. If you have any issues, feel free to share details about what's not working so we can help!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1274,6 +1433,7 @@
   },
   {
    "customer_tweet_id": 478111,
+   "reply": "Hey there! We've just sent you a bit more info over DM. Let's carry on chatting there. Hope to help quickly!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1282,6 +1442,7 @@
   },
   {
    "customer_tweet_id": 1118829,
+   "reply": "Hey there! We don't have any info on this right now, but we'll be sure to announce any news at https://t.co/8zO4WCXX7C. Sign up here to be first to hear: We hope this helps!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1290,6 +1451,7 @@
   },
   {
    "customer_tweet_id": 2589871,
+   "reply": "Hey! It sounds like some of their content might be temporarily unavailable. We have more info here: https://t.co/0i8GpimuDa Let us know if you have any other questions or need further assistance.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1298,6 +1460,7 @@
   },
   {
    "customer_tweet_id": 1374248,
+   "reply": "Hey there! It looks like you're referring to our new design update. For more detailed feedback, we'd love if you could DM us with any specific questions or issues you're experiencing. We're here to help! \ud83c\udfb6\u2728",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1306,6 +1469,7 @@
   },
   {
    "customer_tweet_id": 846801,
+   "reply": "Hi! It sounds like you're having trouble with the \"featured\" artist label affecting your song visibility. We recommend checking if you meet our featured artist criteria here: If it seems incorrect, reaching out to support might help resolve this.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1314,6 +1478,7 @@
   },
   {
    "customer_tweet_id": 1405276,
+   "reply": "Hey there! We don't have any specific timeline right now, but we're launching in new countries regularly. Sign up here to be first to hear about it: https://t.co/XDwWzj7cLP",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1322,6 +1487,7 @@
   },
   {
    "customer_tweet_id": 782675,
+   "reply": "Hey there! Can you please check your device's settings or try restarting Spotify? If it persists, could you DM us your account details so we can look into this further?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1330,6 +1496,7 @@
   },
   {
    "customer_tweet_id": 1244359,
+   "reply": "Hi there! Can you please send us the Song Link for \"She Wants Revenge - All Wound Up\"? Just tap the three dots > Share > Copy Link. We'll take a look and get it corrected. Thanks!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1338,6 +1505,7 @@
   },
   {
    "customer_tweet_id": 2605665,
+   "reply": "Hey there! While we don't offer specific CAD versions of our student plans, we can help you with your current situation. Could you DM us your account's email address so we can check if everything is set up correctly?",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1346,6 +1514,7 @@
   },
   {
    "customer_tweet_id": 2827794,
+   "reply": "Hey! Can you describe what specifically seems wrong with those two songs? We'll take a look. More info here: https://t.co/0i8GpimuDa",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1354,6 +1523,7 @@
   },
   {
    "customer_tweet_id": 758899,
+   "reply": "Hey there! Can you let us know what device/version of Spotify you're using, and if logging out > restarting your device > logging back in helps? We'll see what we can suggest.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1362,6 +1532,7 @@
   },
   {
    "customer_tweet_id": 1239130,
+   "reply": "Hey there! We're looking into this for you. To get more specific updates, check out our recent blog post here: Let us know if you have any other questions!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1370,6 +1541,7 @@
   },
   {
    "customer_tweet_id": 2963995,
+   "reply": "Hey there! For Premium, you're limited to 20,000 saved songs in Your Music. This helps keep your library organized and manageable. You can still add more tracks by saving them individually. If you have any other questions or need further assistance, feel free to DM me!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1378,6 +1550,7 @@
   },
   {
    "customer_tweet_id": 1751394,
+   "reply": "Hey there! If you could share your device, operating system, and Spotify version, we might be able to help resolve this issue faster. Let us know so we can look into it further.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1386,6 +1559,7 @@
   },
   {
    "customer_tweet_id": 365597,
+   "reply": "Hey there! We don't have specific updates on a dedicated iOS Watch app. You can check out these official ideas for potential future features: In the meantime, consider using third-party apps like \"Spotify for Apple Watch\" which is widely used and compatible with many devices.",
    "grounded": 5,
    "helpful": 4,
    "tone": 5,
@@ -1394,6 +1568,7 @@
   },
   {
    "customer_tweet_id": 2653044,
+   "reply": "Hey! To learn more about Spotify Free, you can visit https://t.co/4PjIQhqaRf for details and sign up if interested.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1402,6 +1577,7 @@
   },
   {
    "customer_tweet_id": 1344451,
+   "reply": "Hi there! Can you let us know your smart TV make & model? We'll see what we can suggest for this issue. More info here:",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1410,6 +1586,7 @@
   },
   {
    "customer_tweet_id": 281320,
+   "reply": "Hey there! Can you DM us the email address on your account? We'll see what we can suggest https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1418,6 +1595,7 @@
   },
   {
    "customer_tweet_id": 1844102,
+   "reply": "Hey! To troubleshoot, try restarting your Amazon Echo and then follow these steps: 1. Make sure your Echo is connected to Wi-Fi. 2. Open the Spotify app on your device. 3. Try adding your Echo as a new device by scanning the QR code or entering its name. 4.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1426,6 +1604,7 @@
   },
   {
    "customer_tweet_id": 778441,
+   "reply": "Hey there! To troubleshoot, can you please send a screenshot of the issue on your device? We'll see what we can suggest.",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1434,6 +1613,7 @@
   },
   {
    "customer_tweet_id": 387107,
+   "reply": "Hey there! Can you please share which device you're using and what OS it is on? Also, your Spotify version number would help us investigate. We'll look into this for you!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1442,6 +1622,7 @@
   },
   {
    "customer_tweet_id": 1483991,
+   "reply": "Hey there! If you're looking to try out Spotify Premium without a long-term commitment, you can sign up for our free trial here: Enjoy some music while you decide! \ud83c\udfa7\u2728",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1450,6 +1631,7 @@
   },
   {
    "customer_tweet_id": 466083,
+   "reply": "Hi there! We're sorry to hear about your experience with the new web player. Could you try clearing your browser cache or using incognito mode? Sometimes that helps resolve issues. If it persists, we can guide you through a support ticket for further assistance. /SC",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1458,6 +1640,7 @@
   },
   {
    "customer_tweet_id": 363467,
+   "reply": "Hey there! We understand your concern about protecting children from explicit content. Currently, we don't have a feature to filter out songs labeled 'explicit'. You can vote for this idea here: Your support helps us prioritize such features.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1466,6 +1649,7 @@
   },
   {
    "customer_tweet_id": 231019,
+   "reply": "Hey there! You can find more info about updating or accessing pages like this one here: Let me know if you need any other help!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1474,6 +1658,7 @@
   },
   {
    "customer_tweet_id": 976834,
+   "reply": "Hey there! To get started with Spotify Free, visit https://t.co/4PjIQhqaRf and sign up using a credit/debit card or PayPal. We also have some Holiday offers for Premium at https://t.co/Gp5xcUoTsa. Let us know if you need more help!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1482,6 +1667,7 @@
   },
   {
    "customer_tweet_id": 2972071,
+   "reply": "Hey there! Can you please share your device information so we can look into this? Sometimes it helps to know what version of Spotify you're using.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1490,6 +1676,7 @@
   },
   {
    "customer_tweet_id": 899407,
+   "reply": "Hey there! The Release Radar algorithm considers many factors including your listening history and preferences. More votes can help it get even more accurate. We're working on improving it based on user feedback like yours. Thanks for letting us know!",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1498,6 +1685,7 @@
   },
   {
    "customer_tweet_id": 395418,
+   "reply": "Hey there! We don't have a specific time frame for now, but we\u2019re working on it. Can you please DM us your account's email address so we can look into this further? Thanks!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1506,6 +1694,7 @@
   },
   {
    "customer_tweet_id": 2065778,
+   "reply": "Hey there! For \"Pure Heroine\" by Lady Leshurr, can you please try restarting your device? If it still doesn't work, we may need to check further. Let us know how it goes!",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1514,6 +1703,7 @@
   },
   {
    "customer_tweet_id": 1296773,
+   "reply": "Hey there! To help us better understand your issue, could you please share the device and Spotify version you're using? Also, any error messages would be helpful. We'll look into this for you. /AK",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1522,6 +1712,7 @@
   },
   {
    "customer_tweet_id": 1251845,
+   "reply": "Hey there! For any issues with live concert streams, make sure your device meets the requirements and is updated to the latest version. Check out our support page for more details: Are you experiencing any specific problems?",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1530,6 +1721,7 @@
   },
   {
    "customer_tweet_id": 1910203,
+   "reply": "Hey! Our Artist Support team would be the best resource for this. You can reach out to them here: https://t.co/p1wbtdELHu. They should be able to assist you with creating playlists under your verified artist name.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1538,6 +1730,7 @@
   },
   {
    "customer_tweet_id": 366685,
+   "reply": "Hey! Thanks for letting us know. Did reinstalling fix the issue? If not, could you please share what device and version of Spotify you're using so we can look into it further?",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1546,6 +1739,7 @@
   },
   {
    "customer_tweet_id": 2148223,
+   "reply": "Hey there! We\u2019d love to have all of his music available, but we have some info about content here: https://t.co/1dgftcFtzc Please DM us your username or email for further assistance if needed. Thanks!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1554,6 +1748,7 @@
   },
   {
    "customer_tweet_id": 1657195,
+   "reply": "Hey there! This sounds like a great idea! Suggest it in our Community at [ and get support from other users who share your interest.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1562,6 +1757,7 @@
   },
   {
    "customer_tweet_id": 1141826,
+   "reply": "Hey there! In the web app, to sort your album list by most recently added, you can try clicking on an album and then selecting \"More options\" > \"Sort by\". If this doesn't work or if you have any other questions, let us know. /SC",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1570,6 +1766,7 @@
   },
   {
    "customer_tweet_id": 787488,
+   "reply": "Hey there! We understand you're having issues with your playlists and the shuffle function. We\u2019ve recently made some improvements to our shuffle algorithm. Let\u2019s hear more about what's not working for you here: https://t.co/T3vZnSL3od",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1578,6 +1775,7 @@
   },
   {
    "customer_tweet_id": 2056828,
+   "reply": "Hey there! It sounds like something's not quite right with your playlists. Could you please share which iOS and Spotify version you're using? Also, a screenshot of what you see would be really helpful to understand better. Thanks! /SC",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1586,6 +1784,7 @@
   },
   {
    "customer_tweet_id": 2300225,
+   "reply": "Hey there! To help with this, please send the link to the song that has issues. Tap the three dots next to the song > Share > Copy Link. Then share here or DM us your username and email for further assistance. \ud83c\udf4e",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1594,6 +1793,7 @@
   },
   {
    "customer_tweet_id": 2729336,
+   "reply": "Hey there! We appreciate your feedback. Could you please share more details or provide links to support your concerns about the song \"Felices los 4\" being included in our Latino Pride playlist? Your input is important for us to review and make adjustments as needed. /SC",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1602,6 +1802,7 @@
   },
   {
    "customer_tweet_id": 2919322,
+   "reply": "Hey there! To help us troubleshoot, can you try accessing Spotify using a different device or browser? Let us know if that works for you.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1610,6 +1811,7 @@
   },
   {
    "customer_tweet_id": 822279,
+   "reply": "Hey there! What seems to be the issue with Spotify? Let\u2019s troubleshoot together. Can you describe it briefly?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1618,6 +1820,7 @@
   },
   {
    "customer_tweet_id": 2536636,
+   "reply": "Hi there! We've just replied to your DM. Check it out for our next conversation.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1626,6 +1829,7 @@
   },
   {
    "customer_tweet_id": 1806156,
+   "reply": "Hey James! Help's here! Could you DM us your account's email address and username? We'll take a look under the hood https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1634,6 +1838,7 @@
   },
   {
    "customer_tweet_id": 2913979,
+   "reply": "Hey there! Can you tell me what's happening exactly and on what device? Any screenshots would be really helpful to resolve this quickly",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1642,6 +1847,7 @@
   },
   {
    "customer_tweet_id": 2695172,
+   "reply": "Hey there! We understand this is frustrating. To ensure your account stays secure, follow these steps: - Visit https://t.co/QHn3ok8y2n for more info on what to do next. - Change your password and enable 2FA (if not already done).",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1650,6 +1856,7 @@
   },
   {
    "customer_tweet_id": 950000,
+   "reply": "Hey there! For any issues with the Mac app or Connect, you can reach out to our support team here: CC @3072 if they need to be involved.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1658,6 +1865,7 @@
   },
   {
    "customer_tweet_id": 2862782,
+   "reply": "Hey there! To help with this, could you please share the device and Spotify version you're using? We'll see what we can do to secure your account.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1666,6 +1874,7 @@
   },
   {
    "customer_tweet_id": 1944718,
+   "reply": "Hey! We\u2019re sorry to hear that. Check out https://t.co/QHn3ok8y2n for the steps needed to be done. Let us know if you have other questions",
    "grounded": 5,
    "helpful": 5,
    "tone": 5,
@@ -1674,6 +1883,7 @@
   },
   {
    "customer_tweet_id": 2733037,
+   "reply": "Hey! For this issue, try these steps: 1) Go to Settings > Spotify > Help & Feedback. Click \"Send feedback\" and describe the problem in detail. 2) Check if your device's battery is low or overheating. If so, remove it for a bit.",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1682,6 +1892,7 @@
   },
   {
    "customer_tweet_id": 1489541,
+   "reply": "Hey there! It sounds like you're having trouble with your music storage. Have you tried checking if your Android version and Spotify app are up to date? Sometimes, updating can resolve such issues. If not, we might need more specific details about your device model and versions.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1690,6 +1901,7 @@
   },
   {
    "customer_tweet_id": 468339,
+   "reply": "Hi there! We understand this can be frustrating. Have you checked your account for any recent changes or updates? Sometimes clearing your browser cache might help with connectivity issues. If not resolved, please DM us so we can take a closer look at your account.",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1698,6 +1910,7 @@
   },
   {
    "customer_tweet_id": 2360631,
+   "reply": "Hey! To switch from the Family Plan to Student Plans for both of you, one of you can start by signing in with your student account and then invite the other member. Here's how to invite a family member: Let us know if you need more help!",
    "grounded": 5,
    "helpful": 4,
    "tone": 5,
@@ -1706,6 +1919,7 @@
   },
   {
    "customer_tweet_id": 1933355,
+   "reply": "Hi there! To renew your student account, please DM us your username or email address. For unlinking Headspace, you can go to your account settings here: https://t.co/qKxVfxUlBW. Let us know how it goes!",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1714,6 +1928,7 @@
   },
   {
    "customer_tweet_id": 1926547,
+   "reply": "Hey there! We\u2019ve recently made some improvements to our shuffle algorithm. We\u2019d love to hear your feedback here: https://t.co/T3vZnSL3od Please DM us your account's email address and username so we can take a look backstage. Thanks!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1722,6 +1937,7 @@
   },
   {
    "customer_tweet_id": 2978437,
+   "reply": "Hey there! We understand you're disappointed. For the album, it might take some time to be added as new releases are constantly updated. As for Lemonade, we'll check and get back to you soon. More info here: https://t.co/WI0fi3V8Cu #SHOOKETH",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1730,6 +1946,7 @@
   },
   {
    "customer_tweet_id": 765659,
+   "reply": "Hey! It sounds like someone might be accessing your account. Could you please send the Song Link so we can look into it further? We'll need this info from one of your affected songs to help resolve this issue.",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1738,6 +1955,7 @@
   },
   {
    "customer_tweet_id": 2040413,
+   "reply": "Hey there! For your student discount issue, can you DM us your account's email address so we can take a look? https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1746,6 +1964,7 @@
   },
   {
    "customer_tweet_id": 1725469,
+   "reply": "Hey there! Our Curation team creates playlists based on taste, data, and trends. They might not include all songs requested. We suggest checking out other popular songs from this playlist or exploring our extensive music library for You Belong To Me by The Duprees.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1754,6 +1973,7 @@
   },
   {
    "customer_tweet_id": 1317768,
+   "reply": "Hey! It sounds like you're excited about our app, Ryan! We're launching regularly in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM to be the first to hear when we launch in India. Thanks for your interest!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1764,6 +1984,7 @@
  "reply_trivial": [
   {
    "customer_tweet_id": 2203700,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1772,6 +1993,7 @@
   },
   {
    "customer_tweet_id": 258948,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1780,6 +2002,7 @@
   },
   {
    "customer_tweet_id": 2036299,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1788,6 +2011,7 @@
   },
   {
    "customer_tweet_id": 2161287,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1796,6 +2020,7 @@
   },
   {
    "customer_tweet_id": 1836182,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1804,6 +2029,7 @@
   },
   {
    "customer_tweet_id": 700661,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1812,6 +2038,7 @@
   },
   {
    "customer_tweet_id": 2690055,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1820,6 +2047,7 @@
   },
   {
    "customer_tweet_id": 1492463,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1828,6 +2056,7 @@
   },
   {
    "customer_tweet_id": 300491,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1836,6 +2065,7 @@
   },
   {
    "customer_tweet_id": 739476,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1844,6 +2074,7 @@
   },
   {
    "customer_tweet_id": 2070844,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1852,6 +2083,7 @@
   },
   {
    "customer_tweet_id": 48091,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1860,6 +2092,7 @@
   },
   {
    "customer_tweet_id": 2141688,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1868,6 +2101,7 @@
   },
   {
    "customer_tweet_id": 2045211,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1876,6 +2110,7 @@
   },
   {
    "customer_tweet_id": 761833,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1884,6 +2119,7 @@
   },
   {
    "customer_tweet_id": 2079797,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1892,6 +2128,7 @@
   },
   {
    "customer_tweet_id": 922699,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1900,6 +2137,7 @@
   },
   {
    "customer_tweet_id": 2047766,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1908,6 +2146,7 @@
   },
   {
    "customer_tweet_id": 634022,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -1916,6 +2155,7 @@
   },
   {
    "customer_tweet_id": 193285,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1924,6 +2164,7 @@
   },
   {
    "customer_tweet_id": 228054,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1932,6 +2173,7 @@
   },
   {
    "customer_tweet_id": 2883260,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1940,6 +2182,7 @@
   },
   {
    "customer_tweet_id": 852703,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1948,6 +2191,7 @@
   },
   {
    "customer_tweet_id": 301912,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -1956,6 +2200,7 @@
   },
   {
    "customer_tweet_id": 788621,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1964,6 +2209,7 @@
   },
   {
    "customer_tweet_id": 1891248,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1972,6 +2218,7 @@
   },
   {
    "customer_tweet_id": 388117,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -1980,6 +2227,7 @@
   },
   {
    "customer_tweet_id": 767005,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1988,6 +2236,7 @@
   },
   {
    "customer_tweet_id": 728404,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -1996,6 +2245,7 @@
   },
   {
    "customer_tweet_id": 280591,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2004,6 +2254,7 @@
   },
   {
    "customer_tweet_id": 980206,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2012,6 +2263,7 @@
   },
   {
    "customer_tweet_id": 404600,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2020,6 +2272,7 @@
   },
   {
    "customer_tweet_id": 261680,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2028,6 +2281,7 @@
   },
   {
    "customer_tweet_id": 971287,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2036,6 +2290,7 @@
   },
   {
    "customer_tweet_id": 189825,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2044,6 +2299,7 @@
   },
   {
    "customer_tweet_id": 1093231,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2052,6 +2308,7 @@
   },
   {
    "customer_tweet_id": 30601,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2060,6 +2317,7 @@
   },
   {
    "customer_tweet_id": 1950462,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2068,6 +2326,7 @@
   },
   {
    "customer_tweet_id": 1472543,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2076,6 +2335,7 @@
   },
   {
    "customer_tweet_id": 788972,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2084,6 +2344,7 @@
   },
   {
    "customer_tweet_id": 963754,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2092,6 +2353,7 @@
   },
   {
    "customer_tweet_id": 2067121,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2100,6 +2362,7 @@
   },
   {
    "customer_tweet_id": 1830830,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2108,6 +2371,7 @@
   },
   {
    "customer_tweet_id": 1913335,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2116,6 +2380,7 @@
   },
   {
    "customer_tweet_id": 1955898,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2124,6 +2389,7 @@
   },
   {
    "customer_tweet_id": 1879597,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2132,6 +2398,7 @@
   },
   {
    "customer_tweet_id": 1861515,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2140,6 +2407,7 @@
   },
   {
    "customer_tweet_id": 1825383,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2148,6 +2416,7 @@
   },
   {
    "customer_tweet_id": 1652627,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2156,6 +2425,7 @@
   },
   {
    "customer_tweet_id": 633766,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2164,6 +2434,7 @@
   },
   {
    "customer_tweet_id": 1033688,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2172,6 +2443,7 @@
   },
   {
    "customer_tweet_id": 315362,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2180,6 +2452,7 @@
   },
   {
    "customer_tweet_id": 2072408,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2188,6 +2461,7 @@
   },
   {
    "customer_tweet_id": 2986421,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2196,6 +2470,7 @@
   },
   {
    "customer_tweet_id": 1493539,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2204,6 +2479,7 @@
   },
   {
    "customer_tweet_id": 1792450,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2212,6 +2488,7 @@
   },
   {
    "customer_tweet_id": 2079812,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 3,
@@ -2220,6 +2497,7 @@
   },
   {
    "customer_tweet_id": 416215,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2228,6 +2506,7 @@
   },
   {
    "customer_tweet_id": 1811666,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2236,6 +2515,7 @@
   },
   {
    "customer_tweet_id": 1809644,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2244,6 +2524,7 @@
   },
   {
    "customer_tweet_id": 1785649,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2252,6 +2533,7 @@
   },
   {
    "customer_tweet_id": 616779,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2260,6 +2542,7 @@
   },
   {
    "customer_tweet_id": 2058205,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2268,6 +2551,7 @@
   },
   {
    "customer_tweet_id": 1933353,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2276,6 +2560,7 @@
   },
   {
    "customer_tweet_id": 1032420,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2284,6 +2569,7 @@
   },
   {
    "customer_tweet_id": 1802968,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2292,6 +2578,7 @@
   },
   {
    "customer_tweet_id": 1790852,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2300,6 +2587,7 @@
   },
   {
    "customer_tweet_id": 1796452,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2308,6 +2596,7 @@
   },
   {
    "customer_tweet_id": 1952185,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2316,6 +2605,7 @@
   },
   {
    "customer_tweet_id": 250107,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2324,6 +2614,7 @@
   },
   {
    "customer_tweet_id": 1875152,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2332,6 +2623,7 @@
   },
   {
    "customer_tweet_id": 1160864,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2340,6 +2632,7 @@
   },
   {
    "customer_tweet_id": 1036114,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2348,6 +2641,7 @@
   },
   {
    "customer_tweet_id": 1956771,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2356,6 +2650,7 @@
   },
   {
    "customer_tweet_id": 1788208,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2364,6 +2659,7 @@
   },
   {
    "customer_tweet_id": 1234849,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2372,6 +2668,7 @@
   },
   {
    "customer_tweet_id": 361507,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2380,6 +2677,7 @@
   },
   {
    "customer_tweet_id": 788585,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2388,6 +2686,7 @@
   },
   {
    "customer_tweet_id": 1920364,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2396,6 +2695,7 @@
   },
   {
    "customer_tweet_id": 374022,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2404,6 +2704,7 @@
   },
   {
    "customer_tweet_id": 2720917,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2412,6 +2713,7 @@
   },
   {
    "customer_tweet_id": 1480464,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2420,6 +2722,7 @@
   },
   {
    "customer_tweet_id": 2128547,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2428,6 +2731,7 @@
   },
   {
    "customer_tweet_id": 100177,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2436,6 +2740,7 @@
   },
   {
    "customer_tweet_id": 2284062,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2444,6 +2749,7 @@
   },
   {
    "customer_tweet_id": 1760776,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2452,6 +2758,7 @@
   },
   {
    "customer_tweet_id": 1991455,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2460,6 +2767,7 @@
   },
   {
    "customer_tweet_id": 1748248,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2468,6 +2776,7 @@
   },
   {
    "customer_tweet_id": 2942699,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2476,6 +2785,7 @@
   },
   {
    "customer_tweet_id": 2592336,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2484,6 +2794,7 @@
   },
   {
    "customer_tweet_id": 1618759,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2492,6 +2803,7 @@
   },
   {
    "customer_tweet_id": 2021156,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2500,6 +2812,7 @@
   },
   {
    "customer_tweet_id": 2018399,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2508,6 +2821,7 @@
   },
   {
    "customer_tweet_id": 2807543,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2516,6 +2830,7 @@
   },
   {
    "customer_tweet_id": 1602045,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2524,6 +2839,7 @@
   },
   {
    "customer_tweet_id": 327644,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2532,6 +2848,7 @@
   },
   {
    "customer_tweet_id": 2225625,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2540,6 +2857,7 @@
   },
   {
    "customer_tweet_id": 2031920,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2548,6 +2866,7 @@
   },
   {
    "customer_tweet_id": 2912459,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2556,6 +2875,7 @@
   },
   {
    "customer_tweet_id": 2239810,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2564,6 +2884,7 @@
   },
   {
    "customer_tweet_id": 2148236,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2572,6 +2893,7 @@
   },
   {
    "customer_tweet_id": 1990721,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2580,6 +2902,7 @@
   },
   {
    "customer_tweet_id": 160553,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2588,6 +2911,7 @@
   },
   {
    "customer_tweet_id": 1723525,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2596,6 +2920,7 @@
   },
   {
    "customer_tweet_id": 2487414,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2604,6 +2929,7 @@
   },
   {
    "customer_tweet_id": 1767684,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2612,6 +2938,7 @@
   },
   {
    "customer_tweet_id": 2632606,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 4,
    "tone": 5,
@@ -2620,6 +2947,7 @@
   },
   {
    "customer_tweet_id": 2446510,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2628,6 +2956,7 @@
   },
   {
    "customer_tweet_id": 2251410,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2636,6 +2965,7 @@
   },
   {
    "customer_tweet_id": 2513100,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2644,6 +2974,7 @@
   },
   {
    "customer_tweet_id": 2251358,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2652,6 +2983,7 @@
   },
   {
    "customer_tweet_id": 2364841,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2660,6 +2992,7 @@
   },
   {
    "customer_tweet_id": 2239652,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2668,6 +3001,7 @@
   },
   {
    "customer_tweet_id": 2517282,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2676,6 +3010,7 @@
   },
   {
    "customer_tweet_id": 1162323,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2684,6 +3019,7 @@
   },
   {
    "customer_tweet_id": 2684264,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2692,6 +3028,7 @@
   },
   {
    "customer_tweet_id": 2139022,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2700,6 +3037,7 @@
   },
   {
    "customer_tweet_id": 153753,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2708,6 +3046,7 @@
   },
   {
    "customer_tweet_id": 2246478,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2716,6 +3055,7 @@
   },
   {
    "customer_tweet_id": 2342559,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2724,6 +3064,7 @@
   },
   {
    "customer_tweet_id": 568965,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2732,6 +3073,7 @@
   },
   {
    "customer_tweet_id": 576782,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2740,6 +3082,7 @@
   },
   {
    "customer_tweet_id": 554138,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2748,6 +3091,7 @@
   },
   {
    "customer_tweet_id": 544598,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2756,6 +3100,7 @@
   },
   {
    "customer_tweet_id": 569618,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2764,6 +3109,7 @@
   },
   {
    "customer_tweet_id": 564491,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2772,6 +3118,7 @@
   },
   {
    "customer_tweet_id": 555494,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2780,6 +3127,7 @@
   },
   {
    "customer_tweet_id": 570525,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2788,6 +3136,7 @@
   },
   {
    "customer_tweet_id": 510537,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2796,6 +3145,7 @@
   },
   {
    "customer_tweet_id": 511827,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2804,6 +3154,7 @@
   },
   {
    "customer_tweet_id": 555492,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2812,6 +3163,7 @@
   },
   {
    "customer_tweet_id": 539199,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2820,6 +3172,7 @@
   },
   {
    "customer_tweet_id": 508845,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2828,6 +3181,7 @@
   },
   {
    "customer_tweet_id": 508875,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2836,6 +3190,7 @@
   },
   {
    "customer_tweet_id": 601866,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2844,6 +3199,7 @@
   },
   {
    "customer_tweet_id": 466060,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2852,6 +3208,7 @@
   },
   {
    "customer_tweet_id": 565409,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -2860,6 +3217,7 @@
   },
   {
    "customer_tweet_id": 502663,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2868,6 +3226,7 @@
   },
   {
    "customer_tweet_id": 504279,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2876,6 +3235,7 @@
   },
   {
    "customer_tweet_id": 554128,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2884,6 +3244,7 @@
   },
   {
    "customer_tweet_id": 482459,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2892,6 +3253,7 @@
   },
   {
    "customer_tweet_id": 573221,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2900,6 +3262,7 @@
   },
   {
    "customer_tweet_id": 590147,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2908,6 +3271,7 @@
   },
   {
    "customer_tweet_id": 494237,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2916,6 +3280,7 @@
   },
   {
    "customer_tweet_id": 486947,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2924,6 +3289,7 @@
   },
   {
    "customer_tweet_id": 501008,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2932,6 +3298,7 @@
   },
   {
    "customer_tweet_id": 576201,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2940,6 +3307,7 @@
   },
   {
    "customer_tweet_id": 597352,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2948,6 +3316,7 @@
   },
   {
    "customer_tweet_id": 591475,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -2956,6 +3325,7 @@
   },
   {
    "customer_tweet_id": 574268,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2964,6 +3334,7 @@
   },
   {
    "customer_tweet_id": 581525,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2972,6 +3343,7 @@
   },
   {
    "customer_tweet_id": 554121,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2980,6 +3352,7 @@
   },
   {
    "customer_tweet_id": 570523,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -2988,6 +3361,7 @@
   },
   {
    "customer_tweet_id": 502659,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -2996,6 +3370,7 @@
   },
   {
    "customer_tweet_id": 571379,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3004,6 +3379,7 @@
   },
   {
    "customer_tweet_id": 492418,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3012,6 +3388,7 @@
   },
   {
    "customer_tweet_id": 464476,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3020,6 +3397,7 @@
   },
   {
    "customer_tweet_id": 468975,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 3,
@@ -3028,6 +3406,7 @@
   },
   {
    "customer_tweet_id": 462649,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3036,6 +3415,7 @@
   },
   {
    "customer_tweet_id": 478111,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3044,6 +3424,7 @@
   },
   {
    "customer_tweet_id": 1118829,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3052,6 +3433,7 @@
   },
   {
    "customer_tweet_id": 2589871,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3060,6 +3442,7 @@
   },
   {
    "customer_tweet_id": 1374248,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3068,6 +3451,7 @@
   },
   {
    "customer_tweet_id": 846801,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3076,6 +3460,7 @@
   },
   {
    "customer_tweet_id": 1405276,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3084,6 +3469,7 @@
   },
   {
    "customer_tweet_id": 782675,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3092,6 +3478,7 @@
   },
   {
    "customer_tweet_id": 1244359,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 2,
    "tone": 5,
@@ -3100,6 +3487,7 @@
   },
   {
    "customer_tweet_id": 2605665,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3108,6 +3496,7 @@
   },
   {
    "customer_tweet_id": 2827794,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3116,6 +3505,7 @@
   },
   {
    "customer_tweet_id": 758899,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3124,6 +3514,7 @@
   },
   {
    "customer_tweet_id": 1239130,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3132,6 +3523,7 @@
   },
   {
    "customer_tweet_id": 2963995,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3140,6 +3532,7 @@
   },
   {
    "customer_tweet_id": 1751394,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3148,6 +3541,7 @@
   },
   {
    "customer_tweet_id": 365597,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3156,6 +3550,7 @@
   },
   {
    "customer_tweet_id": 2653044,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3164,6 +3559,7 @@
   },
   {
    "customer_tweet_id": 1344451,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3172,6 +3568,7 @@
   },
   {
    "customer_tweet_id": 281320,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3180,6 +3577,7 @@
   },
   {
    "customer_tweet_id": 1844102,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3188,6 +3586,7 @@
   },
   {
    "customer_tweet_id": 778441,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3196,6 +3595,7 @@
   },
   {
    "customer_tweet_id": 387107,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3204,6 +3604,7 @@
   },
   {
    "customer_tweet_id": 1483991,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3212,6 +3613,7 @@
   },
   {
    "customer_tweet_id": 466083,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3220,6 +3622,7 @@
   },
   {
    "customer_tweet_id": 363467,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3228,6 +3631,7 @@
   },
   {
    "customer_tweet_id": 231019,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3236,6 +3640,7 @@
   },
   {
    "customer_tweet_id": 976834,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3244,6 +3649,7 @@
   },
   {
    "customer_tweet_id": 2972071,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3252,6 +3658,7 @@
   },
   {
    "customer_tweet_id": 899407,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3260,6 +3667,7 @@
   },
   {
    "customer_tweet_id": 395418,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3268,6 +3676,7 @@
   },
   {
    "customer_tweet_id": 2065778,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3276,6 +3685,7 @@
   },
   {
    "customer_tweet_id": 1296773,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3284,6 +3694,7 @@
   },
   {
    "customer_tweet_id": 1251845,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3292,6 +3703,7 @@
   },
   {
    "customer_tweet_id": 1910203,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3300,6 +3712,7 @@
   },
   {
    "customer_tweet_id": 366685,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3308,6 +3721,7 @@
   },
   {
    "customer_tweet_id": 2148223,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3316,6 +3730,7 @@
   },
   {
    "customer_tweet_id": 1657195,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3324,6 +3739,7 @@
   },
   {
    "customer_tweet_id": 1141826,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3332,6 +3748,7 @@
   },
   {
    "customer_tweet_id": 787488,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3340,6 +3757,7 @@
   },
   {
    "customer_tweet_id": 2056828,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3348,6 +3766,7 @@
   },
   {
    "customer_tweet_id": 2300225,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3356,6 +3775,7 @@
   },
   {
    "customer_tweet_id": 2729336,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3364,6 +3784,7 @@
   },
   {
    "customer_tweet_id": 2919322,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3372,6 +3793,7 @@
   },
   {
    "customer_tweet_id": 822279,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3380,6 +3802,7 @@
   },
   {
    "customer_tweet_id": 2536636,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3388,6 +3811,7 @@
   },
   {
    "customer_tweet_id": 1806156,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3396,6 +3820,7 @@
   },
   {
    "customer_tweet_id": 2913979,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3404,6 +3829,7 @@
   },
   {
    "customer_tweet_id": 2695172,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3412,6 +3838,7 @@
   },
   {
    "customer_tweet_id": 950000,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3420,6 +3847,7 @@
   },
   {
    "customer_tweet_id": 2862782,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3428,6 +3856,7 @@
   },
   {
    "customer_tweet_id": 1944718,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3436,6 +3865,7 @@
   },
   {
    "customer_tweet_id": 2733037,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3444,6 +3874,7 @@
   },
   {
    "customer_tweet_id": 1489541,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3452,6 +3883,7 @@
   },
   {
    "customer_tweet_id": 468339,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3460,6 +3892,7 @@
   },
   {
    "customer_tweet_id": 2360631,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3468,6 +3901,7 @@
   },
   {
    "customer_tweet_id": 1933355,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3476,6 +3910,7 @@
   },
   {
    "customer_tweet_id": 1926547,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3484,6 +3919,7 @@
   },
   {
    "customer_tweet_id": 2978437,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3492,6 +3928,7 @@
   },
   {
    "customer_tweet_id": 765659,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3500,6 +3937,7 @@
   },
   {
    "customer_tweet_id": 2040413,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3508,6 +3946,7 @@
   },
   {
    "customer_tweet_id": 1725469,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3516,6 +3955,7 @@
   },
   {
    "customer_tweet_id": 1317768,
+   "reply": "Hey! Sorry to hear that. Send us a DM with your account email and device details and we'll take a look /Spotify",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3526,6 +3966,7 @@
  "reply_nearest": [
   {
    "customer_tweet_id": 2203700,
+   "reply": "We understand - we\u2019re working on it as we speak. Stay tuned",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3534,6 +3975,7 @@
   },
   {
    "customer_tweet_id": 258948,
+   "reply": "1: Hey there! We don't have any info to share, but we appreciate your feedback on this. We'll be sure to pass it on to the right folks.",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3542,6 +3984,7 @@
   },
   {
    "customer_tweet_id": 2036299,
+   "reply": "No worries! Just to check, is everything all good now? We'll keep an eye out for your reply",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3550,6 +3993,7 @@
   },
   {
    "customer_tweet_id": 2161287,
+   "reply": "Hey! We don't have any info regarding that. Don't you worry, we're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP. If you have any other questions, you know where to reach us",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3558,6 +4002,7 @@
   },
   {
    "customer_tweet_id": 1836182,
+   "reply": "Hey there! That's not cool. Just to check, are you getting any error messages? If so, a screenshot will come in handy",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3566,6 +4011,7 @@
   },
   {
    "customer_tweet_id": 700661,
+   "reply": "Hey there! That's not cool. Can you let us know if this is happening while using Spotify Connect to play your tunes on a different device?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3574,6 +4020,7 @@
   },
   {
    "customer_tweet_id": 2690055,
+   "reply": "Hey there! Sometimes content gets removed due to licensing changes. Hopefully we'll have it available again soon",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3582,6 +4029,7 @@
   },
   {
    "customer_tweet_id": 1492463,
+   "reply": "Hey there! We hear you \ud83c\udfa7 Rest assured, your feedback will be passed on to the right folks",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3590,6 +4038,7 @@
   },
   {
    "customer_tweet_id": 300491,
+   "reply": "Hi! We're afraid we don't have news about this. We'll let our devs know it's something you'd like to see. For anything else, let us know",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3598,6 +4047,7 @@
   },
   {
    "customer_tweet_id": 739476,
+   "reply": "Hi! We\u2019d love to have all of her stuff available, but we have some info about content here: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3606,6 +4056,7 @@
   },
   {
    "customer_tweet_id": 2070844,
+   "reply": "Hi, Taylor Swift's 'Reputation' isn't available to stream just yet! For now, check out the singles: https://t.co/3h0TnPWP0c",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3614,6 +4065,7 @@
   },
   {
    "customer_tweet_id": 48091,
+   "reply": "Hey Lizbeth, help's here! Are you getting any error messages when you try to add playlists? A screenshot would also be helpful",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3622,6 +4074,7 @@
   },
   {
    "customer_tweet_id": 2141688,
+   "reply": "HI Aashti! Everything should be running smoothly now. Let us know if this is still happening",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3630,6 +4083,7 @@
   },
   {
    "customer_tweet_id": 2045211,
+   "reply": "Hi Rachel! If you're already on the student discount, you can still get this offer. More info here: https://t.co/hAqefUikr2",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3638,6 +4092,7 @@
   },
   {
    "customer_tweet_id": 761833,
+   "reply": "Hey! Are you getting any error messages when connecting to Spotify? Also, are you rocking Premium or Free? Keep us posted",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3646,6 +4101,7 @@
   },
   {
    "customer_tweet_id": 2079797,
+   "reply": "Hey Mike! If you think that could be useful, suggest it in our Community at https://t.co/rtDvYZOF32 and get support from other users",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3654,6 +4110,7 @@
   },
   {
    "customer_tweet_id": 922699,
+   "reply": "Hey there. We\u2019ll have it available to you as soon as it\u2019s available to us! For now, check out the singles: https://t.co/3h0TnPWP0c",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3662,6 +4119,7 @@
   },
   {
    "customer_tweet_id": 2047766,
+   "reply": "1: Hey there! Students must be actively in term at their college/university to be eligible to apply the discount. If they try to sign...",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3670,6 +4128,7 @@
   },
   {
    "customer_tweet_id": 634022,
+   "reply": "Awesome! Thanks for letting us know. if you ever need us, just give us a shout. Have a... https://t.co/FdMVyoJ96P",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3678,6 +4137,7 @@
   },
   {
    "customer_tweet_id": 193285,
+   "reply": "Hey! We've just sent you a bit more info over DM. We'll carry on helping out there",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3686,6 +4146,7 @@
   },
   {
    "customer_tweet_id": 228054,
+   "reply": "Hey! Can you DM us your account's email address? Also, which version of Spotify are you using? We'd love to help https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3694,6 +4155,7 @@
   },
   {
    "customer_tweet_id": 2883260,
+   "reply": "Hi there, that's not cool! In any case, you can find more details that could help you out on that here: https://t.co/38J7tFlIBF",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3702,6 +4164,7 @@
   },
   {
    "customer_tweet_id": 852703,
+   "reply": "Hey there! We\u2019ll have it available to you as soon as it\u2019s available to us! https://t.co/0i8GpimuDa. For anything else, let us know",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3710,6 +4173,7 @@
   },
   {
    "customer_tweet_id": 301912,
+   "reply": "Hey Caleb! We aren't offering any type of military discount for now, but we'll pass the idea to the right team",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3718,6 +4182,7 @@
   },
   {
    "customer_tweet_id": 788621,
+   "reply": "Hey there! What's happening exactly? Could you let us know the device you're using? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3726,6 +4191,7 @@
   },
   {
    "customer_tweet_id": 1891248,
+   "reply": "Hi! We don't have any info to share right now, but you can show your support for Lossless streaming by voting at https://t.co/jA0OzJ0OO3",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3734,6 +4200,7 @@
   },
   {
    "customer_tweet_id": 388117,
+   "reply": "Hi! We've just sent a DM your way. Let's carry on chatting there",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3742,6 +4209,7 @@
   },
   {
    "customer_tweet_id": 767005,
+   "reply": "1: Hey Jessenia! If you're already paying for a Hulu account, you will need to cancel your subscription with Hulu before...",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3750,6 +4218,7 @@
   },
   {
    "customer_tweet_id": 728404,
+   "reply": "Hey Damon! Thanks for letting us know. Everything\u2019s looking good on our end now - are you still having this issue?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3758,6 +4227,7 @@
   },
   {
    "customer_tweet_id": 280591,
+   "reply": "Hey, help's here! What\u2019s happening exactly? Can you let us know the device and operating system you\u2019re using? Screenshots would be helpful",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3766,6 +4236,7 @@
   },
   {
    "customer_tweet_id": 980206,
+   "reply": "Hey! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3774,6 +4245,7 @@
   },
   {
    "customer_tweet_id": 404600,
+   "reply": "Hey there! Can you let us know if you're referring to your own or other's playlists? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3782,6 +4254,7 @@
   },
   {
    "customer_tweet_id": 261680,
+   "reply": "Hi! Thanks for your feedback - we'll pass it on. For now, check out https://t.co/zgnxs5kPEu if you haven't had a subscription before",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3790,6 +4263,7 @@
   },
   {
    "customer_tweet_id": 971287,
+   "reply": "Hey Anna, help's here! What's going on?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3798,6 +4272,7 @@
   },
   {
    "customer_tweet_id": 189825,
+   "reply": "Hi Rachel! If you're already on the student discount, you can still get this offer. More info here: https://t.co/hAqefUikr2",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3806,6 +4281,7 @@
   },
   {
    "customer_tweet_id": 1093231,
+   "reply": "Hey! We're afraid this isn't possible right now, but you can show your support for the idea on our Community: https://t.co/oGDLtirXki",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3814,6 +4290,7 @@
   },
   {
    "customer_tweet_id": 30601,
+   "reply": "Hey there! We can help out in English via Twitter, but we also have Turkish support via email at https://t.co/ZgU70TbP8M",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3822,6 +4299,7 @@
   },
   {
    "customer_tweet_id": 1950462,
+   "reply": "Hi there! We're afraid this option isn't available for Android devices at this time, but you can use the desktop app to do so",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3830,6 +4308,7 @@
   },
   {
    "customer_tweet_id": 1472543,
+   "reply": "Hey Patrick! Can you let us know the Spotify version you're using? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3838,6 +4317,7 @@
   },
   {
    "customer_tweet_id": 788972,
+   "reply": "We hear you Mark! To help make it happen, we\u2019d recommend showing your support for the idea here: https://t.co/CdI1SY9KZE",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3846,6 +4326,7 @@
   },
   {
    "customer_tweet_id": 963754,
+   "reply": "You're welcome! Let us know if you need anything else. We're... https://t.co/zOXI69QSqg",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -3854,6 +4335,7 @@
   },
   {
    "customer_tweet_id": 2067121,
+   "reply": "Hey! Lyrics is currently unavailable as we're making some big improvements to the feature. We'll share more updates soon",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3862,6 +4344,7 @@
   },
   {
    "customer_tweet_id": 1830830,
+   "reply": "Hey Aaron, help's here! You can get help with invites by heading here: https://t.co/KJ8ayuKPFM. Let us know how it goes",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3870,6 +4353,7 @@
   },
   {
    "customer_tweet_id": 1913335,
+   "reply": "Hey Devani! We're here to help. Can you DM us your account's email address? We'll take a look under the hood https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3878,6 +4362,7 @@
   },
   {
    "customer_tweet_id": 1955898,
+   "reply": "Hi Dave! Sorry to hear that. If you'd like to give us another chance, we're just here for you",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3886,6 +4371,7 @@
   },
   {
    "customer_tweet_id": 1879597,
+   "reply": "Hi there. We're sorry you feel that way. Can you let us know what's happening exactly? We'll be happy to help",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -3894,6 +4380,7 @@
   },
   {
    "customer_tweet_id": 1861515,
+   "reply": "Hey there, help's here! Does logging out > restarting the device > logging back in help? Keep us posted",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3902,6 +4389,7 @@
   },
   {
    "customer_tweet_id": 1825383,
+   "reply": "Hey! We can't offer compensation, but your Discover Weekly should improve as it gets to know you. Any questions, give us a shout",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3910,6 +4398,7 @@
   },
   {
    "customer_tweet_id": 1652627,
+   "reply": "Hey there! This isn't possible right now, but you can show your support for the idea in our Community: https://t.co/qb974jjD2Q",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3918,6 +4407,7 @@
   },
   {
    "customer_tweet_id": 633766,
+   "reply": "Hey! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3926,6 +4416,7 @@
   },
   {
    "customer_tweet_id": 1033688,
+   "reply": "Hi Rissa! Can you let us know what's happening exactly? We're here to help",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3934,6 +4425,7 @@
   },
   {
    "customer_tweet_id": 315362,
+   "reply": "Hey! Our Curation team is independent, but we'll be sure to pass your feedback",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3942,6 +4434,7 @@
   },
   {
    "customer_tweet_id": 2072408,
+   "reply": "Hi Jade. We\u2019ll have it available to you as soon as it\u2019s available to us! https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3950,6 +4443,7 @@
   },
   {
    "customer_tweet_id": 2986421,
+   "reply": "Hi Kirsty! The cavalry's here. Can you DM us your account's username or email address? We'll take a look under the hood https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3958,6 +4452,7 @@
   },
   {
    "customer_tweet_id": 1493539,
+   "reply": "Hey Sarah. Can you tell us more about what's happening? What device, operating system, and Spotify version are you on?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3966,6 +4461,7 @@
   },
   {
    "customer_tweet_id": 1792450,
+   "reply": "Hi there! All kinds of streams should count for UK chart purposes. Let us know if you have other questions",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3974,6 +4470,7 @@
   },
   {
    "customer_tweet_id": 2079812,
+   "reply": "Hey! The cavalry's here. Can you DM us your account's username or email address? We'll take a look under the hood https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3982,6 +4479,7 @@
   },
   {
    "customer_tweet_id": 416215,
+   "reply": "Hey Bridget! We have the answer to this question right here: https://t.co/fBWheBAEQe \ud83d\ude09",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -3990,6 +4488,7 @@
   },
   {
    "customer_tweet_id": 1811666,
+   "reply": "Hey Katrina! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -3998,6 +4497,7 @@
   },
   {
    "customer_tweet_id": 1809644,
+   "reply": "Hey Lisa. We\u2019ll have it available to you as soon as it\u2019s available to us! https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4006,6 +4506,7 @@
   },
   {
    "customer_tweet_id": 1785649,
+   "reply": "Hey! Don't worry, we're on it. Our developers are looking into this, and we'll keep everyone updated",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4014,6 +4515,7 @@
   },
   {
    "customer_tweet_id": 616779,
+   "reply": "Hey! The Recently Played Artist section doesn't update when playing songs from a playlist. We have some info at https://t.co/3N1FQWA2HC",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4022,6 +4524,7 @@
   },
   {
    "customer_tweet_id": 2058205,
+   "reply": "Hey! Can you give us a bit more info on what's happening? If you're looking for an album/track, send us the artist's name & we'll check",
    "grounded": 5,
    "helpful": 1,
    "tone": 3,
@@ -4030,6 +4533,7 @@
   },
   {
    "customer_tweet_id": 1933353,
+   "reply": "Hey there! We\u2019ll have it available to you as soon as it\u2019s available to us! https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4038,6 +4542,7 @@
   },
   {
    "customer_tweet_id": 1032420,
+   "reply": "Hi Chris! Can you DM us your account's username or email address? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4046,6 +4551,7 @@
   },
   {
    "customer_tweet_id": 1802968,
+   "reply": "Hi Marc. That doesn't sound good. Can you DM us your account's email address or username? We'll take a look under the hood https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4054,6 +4560,7 @@
   },
   {
    "customer_tweet_id": 1790852,
+   "reply": "Hey there! Our best tech folks are on the case as we speak. We'd recommend giving it another go in an hour \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4062,6 +4569,7 @@
   },
   {
    "customer_tweet_id": 1796452,
+   "reply": "Hi there. We're sorry you feel that way. We suggest checking out the steps under \u201cDownloads unexpectedly removed\u201d at https://t.co/38J7tFlIBF. They should help with this",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4070,6 +4578,7 @@
   },
   {
    "customer_tweet_id": 1952185,
+   "reply": "Hey, that doesn't sound right. Can you let us know the device, operating system, and Spotify version you're using?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4078,6 +4587,7 @@
   },
   {
    "customer_tweet_id": 250107,
+   "reply": "Hi Grant! Here at Spotify, we're always trying out new things and making changes to improve the app and the user experience",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4086,6 +4596,7 @@
   },
   {
    "customer_tweet_id": 1875152,
+   "reply": "Hi, help's here! We have more info about Spotify available on the Xbox One at https://t.co/wZejwbutGF. Hope this helps \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4094,6 +4605,7 @@
   },
   {
    "customer_tweet_id": 1160864,
+   "reply": "Hey! Can you let us know which device and operating system you're using? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4102,6 +4614,7 @@
   },
   {
    "customer_tweet_id": 1036114,
+   "reply": "You're welcome! Let us know if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4110,6 +4623,7 @@
   },
   {
    "customer_tweet_id": 1956771,
+   "reply": "Hey! That's correct. We've got more info here: https://t.co/zEMYB82ZiG. If you have any other questions, just give us a shout",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -4118,6 +4632,7 @@
   },
   {
    "customer_tweet_id": 1788208,
+   "reply": "Hey Ravi, we\u2019re sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next. Keep us posted",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4126,6 +4641,7 @@
   },
   {
    "customer_tweet_id": 1234849,
+   "reply": "Hey there! We understand - we\u2019re working on it as we speak. Stay tuned. Anything else, give us a shout",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4134,6 +4650,7 @@
   },
   {
    "customer_tweet_id": 361507,
+   "reply": "Hey! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4142,6 +4659,7 @@
   },
   {
    "customer_tweet_id": 788585,
+   "reply": "Hey, sorry to hear about that. Check out the steps under \u201cDownloads unexpectedly removed\u201d at https://t.co/38J7tFlIBF. They should help",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4150,6 +4668,7 @@
   },
   {
    "customer_tweet_id": 1920364,
+   "reply": "Hi Chris, help's here! Does clearing your browser's cache/cookies and refreshing help? Keep us posted",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4158,6 +4677,7 @@
   },
   {
    "customer_tweet_id": 374022,
+   "reply": "Hey there! We've just sent you a DM. Let's continue chatting there",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4166,6 +4686,7 @@
   },
   {
    "customer_tweet_id": 2720917,
+   "reply": "Hi Steven! We're afraid the intro offer is available for those who never had Premium before. For more info, just go here: https://t.co/ApSwZJcvn1",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4174,6 +4695,7 @@
   },
   {
    "customer_tweet_id": 1480464,
+   "reply": "Hey Anika! What exactly; is going on with your Spotify? We'll do our best to help you out",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4182,6 +4704,7 @@
   },
   {
    "customer_tweet_id": 2128547,
+   "reply": "Hey, that doesn't sound right. Can you let us know the iOS and Spotify versions you're using? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4190,6 +4713,7 @@
   },
   {
    "customer_tweet_id": 100177,
+   "reply": "Hey there! Could you DM us your account's username and email address? We'll see what we can suggest https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4198,6 +4722,7 @@
   },
   {
    "customer_tweet_id": 2284062,
+   "reply": "Hey there, help's here! Can you DM us what exactly happened? We'll help out there \ud83d\ude42 https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4206,6 +4731,7 @@
   },
   {
    "customer_tweet_id": 1760776,
+   "reply": "Hey! Don't worry, we're on it. Our developers are looking into this, and we'll keep everyone updated",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4214,6 +4740,7 @@
   },
   {
    "customer_tweet_id": 1991455,
+   "reply": "Hey there! Can you send us the Song Link? Just tap the three dots > Share > Copy Link. We'll take a look backstage",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4222,6 +4749,7 @@
   },
   {
    "customer_tweet_id": 1748248,
+   "reply": "Hey - sorry about that! We\u2019d recommend reaching out to your distributor/aggregator. They'll work with our team to make sure your artist page gets fixed up",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4230,6 +4758,7 @@
   },
   {
    "customer_tweet_id": 2942699,
+   "reply": "Hey Catrina! Can you let us know the exact model of your Smart TV? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4238,6 +4767,7 @@
   },
   {
    "customer_tweet_id": 2592336,
+   "reply": "Hey there! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -4246,6 +4776,7 @@
   },
   {
    "customer_tweet_id": 1618759,
+   "reply": "Hey! What device and operating system are you using? Also, are you Premium or Free? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4254,6 +4785,7 @@
   },
   {
    "customer_tweet_id": 2021156,
+   "reply": "Hey there! What type of music are you into? We'll see what we can cook up \ud83d\ude09",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4262,6 +4794,7 @@
   },
   {
    "customer_tweet_id": 2018399,
+   "reply": "Hi Dan! That doesn't sound good. What's happening exactly? We'll lend a hand",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4270,6 +4803,7 @@
   },
   {
    "customer_tweet_id": 2807543,
+   "reply": "Hey, thanks for reporting! We've already passed your comments and info onto the Content team. Anything else, give us a shout",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -4278,6 +4812,7 @@
   },
   {
    "customer_tweet_id": 1602045,
+   "reply": "Hey! Can you let us know which university you're currently attending? More info about the student discount here: https://t.co/8389kI2YKo",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4286,6 +4821,7 @@
   },
   {
    "customer_tweet_id": 327644,
+   "reply": "Hey Joaquin! The Stranger Things Mode is an easter egg feature that adds some animation to your app. Hope you like it \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4294,6 +4830,7 @@
   },
   {
    "customer_tweet_id": 2225625,
+   "reply": "Hi! We've replied to your DM. Let's continue chatting there",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4302,6 +4839,7 @@
   },
   {
    "customer_tweet_id": 2031920,
+   "reply": "Hey there! Can you let us know which device and operating system you're using? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4310,6 +4848,7 @@
   },
   {
    "customer_tweet_id": 2912459,
+   "reply": "Hey Jimmy! Thanks for the report. We had a little hiccup earlier but everything should be running just fine now",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4318,6 +4857,7 @@
   },
   {
    "customer_tweet_id": 2239810,
+   "reply": "Hey there! Can you let us know the iOS and Spotify version you're using? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4326,6 +4866,7 @@
   },
   {
    "customer_tweet_id": 2148236,
+   "reply": "Hey! We're afraid we don't have any info to share, but rest assured we\u2019re working on it as we speak. Stay tuned \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4334,6 +4875,7 @@
   },
   {
    "customer_tweet_id": 1990721,
+   "reply": "Hey, sorry to hear that! The steps under \u201cDownloads unexpectedly removed\u201d at https://t.co/38J7tFlIBF should help with this",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4342,6 +4884,7 @@
   },
   {
    "customer_tweet_id": 160553,
+   "reply": "Hey! If you're currently enrolled and attending classes at an accredited higher education institution such as a college or university, you should be able to subscribe for the student discount through https://t.co/anKs5CbHuB",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4350,6 +4893,7 @@
   },
   {
    "customer_tweet_id": 1723525,
+   "reply": "Hey there! That's not cool. Can you DM us your account's username or email address? We'll check backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4358,6 +4902,7 @@
   },
   {
    "customer_tweet_id": 2487414,
+   "reply": "Hey! Help's here. Can you let us know what's happening exactly? We'll be waiting for your reply",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4366,6 +4911,7 @@
   },
   {
    "customer_tweet_id": 1767684,
+   "reply": "1: Hi there! We're afraid we don't have an official app for Kodi. We appreciate your feedback though, and we'll be sure to pass it on.",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4374,6 +4920,7 @@
   },
   {
    "customer_tweet_id": 2632606,
+   "reply": "Hi Sylvia, we're here to help. Can you let us know what's exactly happening? We'll check this out",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4382,6 +4929,7 @@
   },
   {
    "customer_tweet_id": 2446510,
+   "reply": "Hi Alberto! We understand - we\u2019re working on it as we speak. Stay tuned",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4390,6 +4938,7 @@
   },
   {
    "customer_tweet_id": 2251410,
+   "reply": "Hey! Sorry to hear you feel that way. To reduce the number of Suggested Tracks you get, try adding more artists into your playlists",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4398,6 +4947,7 @@
   },
   {
    "customer_tweet_id": 2513100,
+   "reply": "Hey! Availability of content depends on licensing. Fingers crossed it'll be available to you soon",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4406,6 +4956,7 @@
   },
   {
    "customer_tweet_id": 2251358,
+   "reply": "Hey. We've checked backstage, and it appears everything has been sorted out. Thanks for the heads up!",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4414,6 +4965,7 @@
   },
   {
    "customer_tweet_id": 2364841,
+   "reply": "Hey there! Just to confirm, are you now able to play One Direction tracks?",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4422,6 +4974,7 @@
   },
   {
    "customer_tweet_id": 2239652,
+   "reply": "Hi! Taylor Swift's 'Reputation' isn't available to stream just yet \u2013 stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4430,6 +4983,7 @@
   },
   {
    "customer_tweet_id": 2517282,
+   "reply": "Hey Louis! Just follow the steps at https://t.co/9izv4Gpe8X to get started. Let us know how it goes",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4438,6 +4992,7 @@
   },
   {
    "customer_tweet_id": 1162323,
+   "reply": "Hey there! Could you let us know your device's make/model, operating system, and Spotify version? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4446,6 +5001,7 @@
   },
   {
    "customer_tweet_id": 2684264,
+   "reply": "Hey! Can you let us know the email addresses registered on both of your accounts via DM? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4454,6 +5010,7 @@
   },
   {
    "customer_tweet_id": 2139022,
+   "reply": "Hey! Can you tell us more about what's happening? Just to confirm, are you trying to get your own music to Spotify?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4462,6 +5019,7 @@
   },
   {
    "customer_tweet_id": 153753,
+   "reply": "Hey! We have more info about the Play Queue at https://t.co/G7PK3sVrTN. Let us know if there's anything else",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4470,6 +5028,7 @@
   },
   {
    "customer_tweet_id": 2246478,
+   "reply": "Hey Nico, thanks for reaching out! We'll make sure this gets passed on to the relevant folks \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4478,6 +5037,7 @@
   },
   {
    "customer_tweet_id": 2342559,
+   "reply": "Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage https://t.co/ldFdZR1cbT",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4486,6 +5046,7 @@
   },
   {
    "customer_tweet_id": 568965,
+   "reply": "Hi Ron! Our best tech folks are on the case as we speak. Hopefully, we'll have a fix soon \ud83d\udd27",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4494,6 +5055,7 @@
   },
   {
    "customer_tweet_id": 576782,
+   "reply": "Hey there! Don't worry, we're here to help. Can you let us know more on the playlists you're referring to? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4502,6 +5064,7 @@
   },
   {
    "customer_tweet_id": 554138,
+   "reply": "Hey! You can edit your playlists using your Android phone too. For more info, click here: https://t.co/fsYUfD7IIb",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4510,6 +5073,7 @@
   },
   {
    "customer_tweet_id": 544598,
+   "reply": "Thanks for the kind words! If you need help with anything else, just give us a shout. Otherwise, have a... https://t.co/FQulrDtFky \ud83d\ude09",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4518,6 +5082,7 @@
   },
   {
    "customer_tweet_id": 569618,
+   "reply": "Hey! We\u2019ll have it available to you as soon as it\u2019s available to us! https://t.co/0i8GpimuDa \ud83d\ude09",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4526,6 +5091,7 @@
   },
   {
    "customer_tweet_id": 564491,
+   "reply": "Hey Thomas, help's here! Can you send us your email address or username via DM? We'll check under the hood",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4534,6 +5100,7 @@
   },
   {
    "customer_tweet_id": 555494,
+   "reply": "Hey there! You can sign up for the Spotify Yearly at https://t.co/N9oyLv27Of. Don't worry, it'll kick in at the end of your current billing cycle. Hope this clears things up. Let us know if you have other questions",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4542,6 +5109,7 @@
   },
   {
    "customer_tweet_id": 570525,
+   "reply": "Hey there. We're afraid we don't have that version, but here's something as equally awesome! Check this out: https://t.co/ZoLvAIKKP8",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4550,6 +5118,7 @@
   },
   {
    "customer_tweet_id": 510537,
+   "reply": "Hey there, help's here! Can you send us your account's email address and username? We'll take a look backstage \ud83d\ude42 https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4558,6 +5127,7 @@
   },
   {
    "customer_tweet_id": 511827,
+   "reply": "Hey Jan! You can follow the exact steps at https://t.co/SgMwFS1ONz under \"Can I import my iTunes Library?\". Hope this helps",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4566,6 +5136,7 @@
   },
   {
    "customer_tweet_id": 555492,
+   "reply": "Hey there, help's here! What\u2019s happening exactly? We'll be glad to lend a hand",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -4574,6 +5145,7 @@
   },
   {
    "customer_tweet_id": 539199,
+   "reply": "1: Hey there! We hope you don't mind if we reply in English. We\u2019d love to have all of Twice's stuff available, but we have some...",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4582,6 +5154,7 @@
   },
   {
    "customer_tweet_id": 508845,
+   "reply": "Hey! We\u2019ll be sure to pass your suggestion to the team. In the meantime, let us know if we can help with anything else \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4590,6 +5163,7 @@
   },
   {
    "customer_tweet_id": 508875,
+   "reply": "Hey there, help's arrived! Can you head over to this page https://t.co/LHTUu8url7 and click on the button that says Save on Premium? Let us know how it goes",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4598,6 +5172,7 @@
   },
   {
    "customer_tweet_id": 601866,
+   "reply": "Hey! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4606,6 +5181,7 @@
   },
   {
    "customer_tweet_id": 466060,
+   "reply": "Hey Kindal, help's arrived! Can you shoot us over a DM with a screenshot of the error message you're receiving? We'll check things out backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4614,6 +5190,7 @@
   },
   {
    "customer_tweet_id": 565409,
+   "reply": "Hey! Don\u2019t worry, we can help. What\u2019s happening exactly? We'd be glad to lend a hand",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -4622,6 +5199,7 @@
   },
   {
    "customer_tweet_id": 502663,
+   "reply": "Hi Denis! The cavalry's here. What device (make and model), operating system, and Spotify version are you using? Are you getting any error messages? A screenshot can be handy",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4630,6 +5208,7 @@
   },
   {
    "customer_tweet_id": 504279,
+   "reply": "Hey! We don't have any info on this right now, but you can support the idea at https://t.co/u9Ki0j7CfB to help make it happen soon",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4638,6 +5217,7 @@
   },
   {
    "customer_tweet_id": 554128,
+   "reply": "Hey there, that's not cool! Is this happening while connected to WiFi, 3G/4G or both?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4646,6 +5226,7 @@
   },
   {
    "customer_tweet_id": 482459,
+   "reply": "Hey Emily! That's not cool. Does logging out > restarting the device > logging back in help? Keep us posted",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -4654,6 +5235,7 @@
   },
   {
    "customer_tweet_id": 573221,
+   "reply": "Hey there! You can get in touch with us via email here: https://t.co/zu6tKiIYUg. Hope that helps",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4662,6 +5244,7 @@
   },
   {
    "customer_tweet_id": 590147,
+   "reply": "Hi there! We're afraid we don't have any info to share on this right now. Not to worry, we'll let the right folks know it's something you'd like to see",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4670,6 +5253,7 @@
   },
   {
    "customer_tweet_id": 494237,
+   "reply": "Hey, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4678,6 +5262,7 @@
   },
   {
    "customer_tweet_id": 486947,
+   "reply": "Hey there, help's here! Could you DM us your account's email address and username? We'll take a look backstage https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4686,6 +5271,7 @@
   },
   {
    "customer_tweet_id": 501008,
+   "reply": "Hey Justin, help's here! Just to check, are you getting any error messages? If so, a screenshot will come in handy",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4694,6 +5280,7 @@
   },
   {
    "customer_tweet_id": 576201,
+   "reply": "Hey! Our friends in Artist Services are the right folks to help with this. You can get in touch with them here: https://t.co/p1wbtdELHu",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4702,6 +5289,7 @@
   },
   {
    "customer_tweet_id": 597352,
+   "reply": "Hey there! Just head to https://t.co/ieJlcMnGDe to sign up for beta testing. Let us know if you have other questions \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4710,6 +5298,7 @@
   },
   {
    "customer_tweet_id": 591475,
+   "reply": "Hey! This sounds like a good idea. You could suggest it in our Community, and get support from other fans: https://t.co/WgY7GXI7jf",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4718,6 +5307,7 @@
   },
   {
    "customer_tweet_id": 574268,
+   "reply": "1: Hey there! This allows you to view the Stranger Things easter egg feature. Just go to the Now Playing screen and stream this...",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4726,6 +5316,7 @@
   },
   {
    "customer_tweet_id": 581525,
+   "reply": "Hi there! Do you have a specific genre in mind? Which artists are you in to right now? We'll see what we can whip up for you",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4734,6 +5325,7 @@
   },
   {
    "customer_tweet_id": 554121,
+   "reply": "No worries! If there's anything else, just give us a shout. Have a lovely day",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4742,6 +5334,7 @@
   },
   {
    "customer_tweet_id": 570523,
+   "reply": "Hi there! Check out the official idea and add your vote to let our devs know it's something you'd like to see: https://t.co/SEK4E4gi22",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4750,6 +5343,7 @@
   },
   {
    "customer_tweet_id": 502659,
+   "reply": "Zzzzz... Sorry, dozed off there. But a Sleep Timer is a great idea! Show your support here: https://t.co/pMmX7wXq24 \ud83d\ude09",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4758,6 +5352,7 @@
   },
   {
    "customer_tweet_id": 571379,
+   "reply": "Hey, thanks for the report! We had a little hiccup earlier, but everything should be running just fine now",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -4766,6 +5361,7 @@
   },
   {
    "customer_tweet_id": 492418,
+   "reply": "Hi! We've sent a bit more info via DM. Let's carry on chatting there",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4774,6 +5370,7 @@
   },
   {
    "customer_tweet_id": 464476,
+   "reply": "Hey there! Try resetting your password here: https://t.co/jGP5GWOoVY. If you see any error messages, send us a screenshot. We'll see what we can suggest",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4782,6 +5379,7 @@
   },
   {
    "customer_tweet_id": 468975,
+   "reply": "Hey There. We'd love to have him on Spotify! Hopefully we will in the future. Check this out: https://t.co/GGCDZEXji9",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4790,6 +5388,7 @@
   },
   {
    "customer_tweet_id": 462649,
+   "reply": "Hey there! Is your Spotify app misbehaving? If so, can you let us know the iOS and app versions you're running? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4798,6 +5397,7 @@
   },
   {
    "customer_tweet_id": 478111,
+   "reply": "Hey there! We've just sent you a bit more info over DM. We'll carry on helping out there",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4806,6 +5406,7 @@
   },
   {
    "customer_tweet_id": 1118829,
+   "reply": "Hey there! There's loads of info on how to play your music on Spotify at https://t.co/Um7DQ7RV6o. Hope this helps",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -4814,6 +5415,7 @@
   },
   {
    "customer_tweet_id": 2589871,
+   "reply": "Hey Alex! Everything should be running smoothly now. Let us know if this is still happening",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -4822,6 +5424,7 @@
   },
   {
    "customer_tweet_id": 1374248,
+   "reply": "Hi there. We can confirm that this isn't a legitimate Spotify website. We suggest that you avoid sending any private info there",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -4830,6 +5433,7 @@
   },
   {
    "customer_tweet_id": 846801,
+   "reply": "Hi! Fingers crossed we'll have all your favorite tracks available, but there's info about Spotify content here: https://t.co/0i8GpimuDa",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4838,6 +5442,7 @@
   },
   {
    "customer_tweet_id": 1405276,
+   "reply": "Hi! We're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4846,6 +5451,7 @@
   },
   {
    "customer_tweet_id": 782675,
+   "reply": "Hey Natalie! Can you let us know what device, operating system, and Spotify version you're using? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4854,6 +5460,7 @@
   },
   {
    "customer_tweet_id": 1244359,
+   "reply": "Hey there! Can you send us the Song Link? Just tap the three dots > Share > Copy Link. We'll take a look",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4862,6 +5469,7 @@
   },
   {
    "customer_tweet_id": 2605665,
+   "reply": "Hi Gracie! We don't have any info on this right now, but we'll let the right team know it's something you'd like to have \ud83d\ude09",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4870,6 +5478,7 @@
   },
   {
    "customer_tweet_id": 2827794,
+   "reply": "Hi Eddie. Don't worry, we'll look into this. Can you tell us what exactly is going on?",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -4878,6 +5487,7 @@
   },
   {
    "customer_tweet_id": 758899,
+   "reply": "Hi there, we're here to help! Does logging out > restarting your device > logging back in help? Keep us posted",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4886,6 +5496,7 @@
   },
   {
    "customer_tweet_id": 1239130,
+   "reply": "Hey there! We have more info about this here: https://t.co/pXBCq8XWkg. Feel free to give us a shout if you have any other questions \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4894,6 +5505,7 @@
   },
   {
    "customer_tweet_id": 2963995,
+   "reply": "Hi Andy! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4902,6 +5514,7 @@
   },
   {
    "customer_tweet_id": 1751394,
+   "reply": "Hey there, that doesn't sound right! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4910,6 +5523,7 @@
   },
   {
    "customer_tweet_id": 365597,
+   "reply": "Hey Daniel! Check out the official idea and add your vote to let our devs know it's something you'd like to see: https://t.co/SEK4E3YGDs",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4918,6 +5532,7 @@
   },
   {
    "customer_tweet_id": 2653044,
+   "reply": "Hey! That's right. To learn more about Spotify Free, just head to https://t.co/QV4vUFYlXG",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4926,6 +5541,7 @@
   },
   {
    "customer_tweet_id": 1344451,
+   "reply": "Hi Emily! Can you tell us more about what's happening? We'd also like to know your device, operating system, and Spotify version",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4934,6 +5550,7 @@
   },
   {
    "customer_tweet_id": 281320,
+   "reply": "Hey there! We\u2019re working on it as we speak. Stay tuned \ud83d\udd27",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -4942,6 +5559,7 @@
   },
   {
    "customer_tweet_id": 1844102,
+   "reply": "1: Hey! We're afraid this isn't possible at the moment. To help make this happen, you can show your support by voting for the idea...",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -4950,6 +5568,7 @@
   },
   {
    "customer_tweet_id": 778441,
+   "reply": "Hey Ben! Not at the moment, however we\u2019d recommend showing your support for the idea here: https://t.co/CdI1SY9KZE",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4958,6 +5577,7 @@
   },
   {
    "customer_tweet_id": 387107,
+   "reply": "Hey there. We\u2019ll have it available to you as soon as it\u2019s available to us! For now, check out the singles: https://t.co/3h0TnPWP0c",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4966,6 +5586,7 @@
   },
   {
    "customer_tweet_id": 1483991,
+   "reply": "We hear you \ud83c\udfa7 Rest assured, your feedback will be passed on to the right folks",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4974,6 +5595,7 @@
   },
   {
    "customer_tweet_id": 466083,
+   "reply": "Hey there. We have some info about the Spotify app on Roku here: https://t.co/titMn0j3Im. Give us a shout if there's anything else",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -4982,6 +5604,7 @@
   },
   {
    "customer_tweet_id": 363467,
+   "reply": "Hey Jason! This isn't possible right now, but you can vote for the idea and help make it happen here: https://t.co/XNY8x8htE6",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -4990,6 +5613,7 @@
   },
   {
    "customer_tweet_id": 231019,
+   "reply": "It\u2019s great to hear you\u2019re looking to put music on Spotify! You can find all the info you need at https://t.co/iWkrqk26O4",
    "grounded": 5,
    "helpful": 1,
    "tone": 3,
@@ -4998,6 +5622,7 @@
   },
   {
    "customer_tweet_id": 976834,
+   "reply": "Hi! We currently have PayPal as a payment option when subscribing to Premium here: https://t.co/AeHiFRoX6a. Just a heads-up, it isn't available for the student discount though. For this, we'd suggest using a credit/debit card instead. Hope that info helps",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -5006,6 +5631,7 @@
   },
   {
    "customer_tweet_id": 2972071,
+   "reply": "Hi, help's here! Can you let us know what Spotify version you're using? We'll take a look backstage",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5014,6 +5640,7 @@
   },
   {
    "customer_tweet_id": 899407,
+   "reply": "Hey! The more you use Spotify, the more personalized Release Radar becomes. Just carry on listening to the songs you love",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5022,6 +5649,7 @@
   },
   {
    "customer_tweet_id": 395418,
+   "reply": "Hey! We're afraid we don't have any info to share, but rest assured we\u2019re working on it as we speak. Stay tuned \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5030,6 +5658,7 @@
   },
   {
    "customer_tweet_id": 2065778,
+   "reply": "Hey there! We\u2019ll have it available to you as soon as it\u2019s available to us! https://t.co/0i8GpimuDa",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -5038,6 +5667,7 @@
   },
   {
    "customer_tweet_id": 1296773,
+   "reply": "Hey Samuel! It should still work. Can you follow the steps here: https://t.co/zzXH7olRoD? We'll be waiting for your update",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5046,6 +5676,7 @@
   },
   {
    "customer_tweet_id": 1251845,
+   "reply": "Hey Christopher! We're afraid we don't have much info about this yet. Can you tell us more about what's happening?",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5054,6 +5685,7 @@
   },
   {
    "customer_tweet_id": 1910203,
+   "reply": "Hey! You can contact our Artist team here: https://t.co/p1wbtdELHu. If you've reached out, DM us your email address & we'll chase it up https://t.co/ldFdZRiNAt",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -5062,6 +5694,7 @@
   },
   {
    "customer_tweet_id": 366685,
+   "reply": "Hey! Thanks for letting us know - we'll get this reported. Give us a shout if you need anything else",
    "grounded": 3,
    "helpful": 1,
    "tone": 5,
@@ -5070,6 +5703,7 @@
   },
   {
    "customer_tweet_id": 2148223,
+   "reply": "Hi Micki! We\u2019d love to have all of her stuff available, but we have some info about content here: https://t.co/0i8GpimuDa \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5078,6 +5712,7 @@
   },
   {
    "customer_tweet_id": 1657195,
+   "reply": "Hey Chase! This sounds like a great idea! Suggest it in our Community at https://t.co/rtDvYZOF32 and get support from other users \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5086,6 +5721,7 @@
   },
   {
    "customer_tweet_id": 1141826,
+   "reply": "Hey Spencer! What device and Spotify version are you using? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5094,6 +5730,7 @@
   },
   {
    "customer_tweet_id": 787488,
+   "reply": "Hey! We\u2019ve recently made some improvements to our shuffle algorithm. We\u2019d love to hear your feedback here: https://t.co/T3vZnSL3od",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5102,6 +5739,7 @@
   },
   {
    "customer_tweet_id": 2056828,
+   "reply": "Hey William, help's here! Could you let us know what iOS and Spotify version you're using? Also, a screenshot of what you're seeing on your playlists would be super helpful too",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5110,6 +5748,7 @@
   },
   {
    "customer_tweet_id": 2300225,
+   "reply": "Hey there! Can you send us the Song Link? Just tap the three dots > Share > Copy Link. We'll take a look",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5118,6 +5757,7 @@
   },
   {
    "customer_tweet_id": 2729336,
+   "reply": "Hey, we can help! Can you tell us what's happening exactly and on what device?",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -5126,6 +5766,7 @@
   },
   {
    "customer_tweet_id": 2919322,
+   "reply": "Hi there! Everything's up and running on our end. What's happening exactly? Can you let us know the exact device, operating system, and Spotify app version you're using? We'll help out",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -5134,6 +5775,7 @@
   },
   {
    "customer_tweet_id": 822279,
+   "reply": "Hey! Don\u2019t worry, we can help. What\u2019s happening exactly? Can you let us know the device you\u2019re using?",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -5142,6 +5784,7 @@
   },
   {
    "customer_tweet_id": 2536636,
+   "reply": "Hey! You can reach the team directly by heading to https://t.co/41wf7ozbVm",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5150,6 +5793,7 @@
   },
   {
    "customer_tweet_id": 1806156,
+   "reply": "Hey Rachel! Don\u2019t worry, we can help. What\u2019s happening exactly? We'll be glad to lend a hand",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5158,6 +5802,7 @@
   },
   {
    "customer_tweet_id": 2913979,
+   "reply": "Hi there! Everything's up and running on our end. What's happening exactly? Can you let us know the exact device, operating system, and Spotify app version you're using? We'll help out",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -5166,6 +5811,7 @@
   },
   {
    "customer_tweet_id": 2695172,
+   "reply": "Hey Cory, we\u2019re sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -5174,6 +5820,7 @@
   },
   {
    "customer_tweet_id": 950000,
+   "reply": "Hey Amy! For all press inquiries, you can reach out to the team here: https://t.co/Th3w2zq5Hv",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5182,6 +5829,7 @@
   },
   {
    "customer_tweet_id": 2862782,
+   "reply": "Hey that's not cool! Can you let us know the device, OS, and Spotify version you're running? We'll see what we can suggest",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5190,6 +5838,7 @@
   },
   {
    "customer_tweet_id": 1944718,
+   "reply": "Hey! We\u2019re sorry to hear that. Check out: https://t.co/iVpg60w61i for what to do next",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5198,6 +5847,7 @@
   },
   {
    "customer_tweet_id": 2733037,
+   "reply": "Sorry to hear! Do the steps under \u201cDownloads unexpectedly removed\u201d at https://t.co/38J7tFlIBF help? Keep us posted",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5206,6 +5856,7 @@
   },
   {
    "customer_tweet_id": 1489541,
+   "reply": "Hi! Check out the steps under \u201cDownloads unexpectedly removed\u201d at https://t.co/38J7tFlIBF. They should help with this",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5214,6 +5865,7 @@
   },
   {
    "customer_tweet_id": 468339,
+   "reply": "Hey there! We\u2019ve recently made some improvements to our shuffle algorithm. We\u2019d love to hear your feedback here: https://t.co/T3vZnSL3od",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5222,6 +5874,7 @@
   },
   {
    "customer_tweet_id": 2360631,
+   "reply": "Hey Robert! Not to worry, you'll both be able to keep your accounts, all you'll have to decide is who will be the owner. For more information on the Family plan, check this out: https://t.co/aFVsYApl0J. Hope this helps",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5230,6 +5883,7 @@
   },
   {
    "customer_tweet_id": 1933355,
+   "reply": "You can unlink Headspace from your Spotify by going to your account settings here: https://t.co/qKxVfxUlBW. Let us know how it goes",
    "grounded": 5,
    "helpful": 3,
    "tone": 5,
@@ -5238,6 +5892,7 @@
   },
   {
    "customer_tweet_id": 1926547,
+   "reply": "Hey there! We\u2019ve recently made some improvements to our shuffle algorithm. We\u2019d love to hear your feedback here: https://t.co/T3vZnSL3od",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5246,6 +5901,7 @@
   },
   {
    "customer_tweet_id": 2978437,
+   "reply": "Hey there! We're working on it, and we hope to have it available soon. There's more info here: https://t.co/WI0fi3V8Cu \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5254,6 +5910,7 @@
   },
   {
    "customer_tweet_id": 765659,
+   "reply": "Hey there! Can you send us one of the Song Link? We'll take a look backstage",
    "grounded": 1,
    "helpful": 1,
    "tone": 5,
@@ -5262,6 +5919,7 @@
   },
   {
    "customer_tweet_id": 2040413,
+   "reply": "We've just sent you a DM \ud83d\ude42",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5270,6 +5928,7 @@
   },
   {
    "customer_tweet_id": 1725469,
+   "reply": "Hi Alexandra! This may be down due to licensing matters and could be temporary. More info here: https://t.co/VMrgnGpB4G",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
@@ -5278,6 +5937,7 @@
   },
   {
    "customer_tweet_id": 1317768,
+   "reply": "Hey! We're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP",
    "grounded": 5,
    "helpful": 1,
    "tone": 5,
